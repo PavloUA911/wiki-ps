@@ -1,0 +1,3676 @@
+{
+    "mobs": [{
+            "name": "snake6",
+            "nameRU": "Гремучая змея",
+            "lvl": 6,
+            "img": "snake6.PNG",
+            "habitat": [{
+                    "location": "east-road",
+                    "coordinates": "D-6,7,8",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "west-road",
+                    "coordinates": "I, J-12,13",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "E, F-10,11 / K, L-11,12 / M-12",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "small-fangs" }, { "type": "other", "name": "painkiller" }, { "type": "other", "name": "pyroxene-whelk" }],
+                "medium": [{ "type": "other", "name": "poisonous-grass" }, { "type": "other", "name": "poisonlvl1" }],
+                "hard": [{ "type": "soul", "name": "poison-soul" }, { "type": "weapon", "name": "knuckle3", "slots": "1" }]
+            }
+        },
+        {
+            "name": "nightmare36",
+            "nameRU": "Кошмар",
+            "lvl": 36,
+            "img": "nightmare36.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "F - 8,9 / F, G-11 / I-7",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }, { "type": "other", "name": "evil-soul" }, { "type": "other", "name": "obsessed-soul" }],
+                "medium": [{ "type": "other", "name": "bat-feathers" }, { "type": "other", "name": "muldian-medal" }, { "type": "other", "name": "dark-pyroxene" }],
+                "hard": [{ "type": "soul", "name": "nightmare-soul" }]
+            }
+        },
+        {
+            "name": "ghost41",
+            "nameRU": "Темный борец",
+            "lvl": 41,
+            "img": "ghost41.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "F - 8,9 / F, G-11 / I-7",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }, { "type": "other", "name": "obsessed-soul" }, { "type": "other", "name": "alive-soul" }],
+                "medium": [{ "type": "other", "name": "muldian-medal" }],
+                "hard": [{ "type": "soul", "name": "defense-soul" }, { "type": "armor", "name": "fighting-gloves11", "slots": "1" }]
+            }
+        },
+        {
+            "name": "ghost43",
+            "nameRU": "Призрачный солдат",
+            "lvl": 43,
+            "img": "ghost43.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "F - 8,9 / F, G-11 / I-7",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }, { "type": "other", "name": "evil-soul" }, { "type": "other", "name": "alive-soul" }],
+                "medium": [{ "type": "other", "name": "muldian-medal" }, { "type": "other", "name": "lightlvl2" }],
+                "hard": [{ "type": "soul", "name": "ranger-soul" }, { "type": "armor", "name": "metal-gloves30", "slots": "1" }, { "type": "armor", "name": "long-crags26", "slots": "1" }]
+            }
+        },
+        {
+            "name": "ghost45",
+            "nameRU": "Рыцарь фантом",
+            "lvl": 45,
+            "img": "ghost45.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "F - 8,9 / F, G-11 / I-7",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }, { "type": "other", "name": "evil-soul" }, { "type": "other", "name": "alive-soul" }, { "type": "other", "name": "desperate-soul" }],
+                "medium": [{ "type": "other", "name": "muldian-medal" }, { "type": "other", "name": "small-silver-pyroxene" }],
+                "hard": [{ "type": "other", "name": "rainbowlvl1" }, { "type": "armor", "name": "clothes-life35", "slots": "0,1" }, { "type": "soul", "name": "berserk-soul" }]
+            }
+        },
+        {
+            "name": "gilia48",
+            "nameRU": "Гильотинщик",
+            "lvl": 48,
+            "img": "gilia48.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "F - 8,9 / F, G-11 / I-7",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }, { "type": "other", "name": "evil-soul" }],
+                "medium": [{ "type": "other", "name": "muldian-medal" }, { "type": "other", "name": "dark-pyroxene" }, { "type": "other", "name": "bat-feathers" }],
+                "hard": [{ "type": "soul", "name": "dawn-soul" }, { "type": "armor", "name": "dark-crown35", "slots": "1" }, { "type": "armor", "name": "horse-helmet35", "slots": "1" }, { "type": "armor", "name": "wizard-hat35", "slots": "0" },
+                    { "type": "armor", "name": "half-closed-helmet35", "slots": "1" }
+                ]
+            }
+        },
+        {
+            "name": "hell-spider51",
+            "nameRU": "Адский паук",
+            "lvl": 51,
+            "img": "hell-spider51.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "J-14",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "muldian-medal" }],
+                "medium": [],
+                "hard": [{ "type": "soul", "name": "acolyte-soul" }, { "type": "soul", "name": "gladiator-soul" }]
+            }
+        },
+        {
+            "name": "earth-demon53",
+            "nameRU": "Земляной демон",
+            "lvl": 53,
+            "img": "earth-demon53.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "G-12",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "muldian-medal" }],
+                "medium": [],
+                "hard": [{ "type": "soul", "name": "witchcraft-soul" }, { "type": "armor", "name": "wizard-hat35", "slots": "1" }, { "type": "armor", "name": "kardinalka35", "slots": "1" }]
+            }
+        },
+        {
+            "name": "tushkanchik3",
+            "nameRU": "Тушканчик",
+            "lvl": 3,
+            "img": "tushkanchik3.PNG",
+            "habitat": [{
+                    "location": "east-road",
+                    "coordinates": "B, C, D, E-10,11,12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "west-road",
+                    "coordinates": "L, M-8,9",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "G, H, I-11,12,13",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "small-fangs" }, { "type": "other", "name": "painkiller" }],
+                "medium": [{ "type": "other", "name": "replenishment-potion" }],
+                "hard": [{ "type": "soul", "name": "magic-soul" }, { "type": "armor", "name": "quilt-boots1", "slots": "0" }]
+            }
+        },
+        {
+            "name": "ant7",
+            "nameRU": "Муравей строитель",
+            "lvl": 7,
+            "img": "ant7.PNG",
+            "habitat": [{
+                "location": "west-road",
+                "coordinates": "J-5,6,7,8 / H-3,4",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "сloudy-bile" }, { "type": "other", "name": "viscous-bile" }],
+                "medium": [{ "type": "other", "name": "pyroxene" }, { "type": "other", "name": "empty-bottle" }, { "type": "other", "name": "acid-bile" }],
+                "hard": [{ "type": "soul", "name": "labor-soul" }, { "type": "other", "name": "firelvl1" }]
+            }
+        },
+        {
+            "name": "slug31",
+            "nameRU": "Рогатый слизень",
+            "lvl": 31,
+            "img": "slug31.PNG",
+            "habitat": [{
+                    "location": "himurartu",
+                    "coordinates": "I-7,8 / H, I-13,14",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "I-9 / H, I-2,3",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "nelstadt",
+                    "coordinates": "O-13, F-5,6,7",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "сloudy-bile" }, { "type": "other", "name": "acid-bile" }, { "type": "other", "name": "multicolored-bile" }],
+                "medium": [{ "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "empty-bottle" }, { "type": "other", "name": "painkiller" }],
+                "hard": [{ "type": "soul", "name": "labor-soul" }]
+            }
+        },
+        {
+            "name": "living-dead8",
+            "nameRU": "Живой Мертвец",
+            "lvl": 8,
+            "img": "living-dead8.PNG",
+            "habitat": [{
+                "location": "east-road",
+                "coordinates": "G, H-9,10,11,12,13",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "meat" }, { "type": "other", "name": "replenishment-potion" }],
+                "medium": [{ "type": "other", "name": "wormy-meat" }, { "type": "other", "name": "rotten-meat" }],
+                "hard": [{ "type": "soul", "name": "fountain-soul" }]
+            }
+        },
+        {
+            "name": "gluttony-ghost8",
+            "nameRU": "Пожиратель душ",
+            "lvl": 8,
+            "img": "gluttony-ghost8.PNG",
+            "habitat": [{
+                    "location": "east-road",
+                    "coordinates": "E, F-5,6",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "west-road",
+                    "coordinates": "J, K, L-12,13",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "K, L-11,12",
+                    "day": false,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "helpless-soul" }, { "type": "other", "name": "saved-soul" }],
+                "medium": [{ "type": "other", "name": "fire-root" }],
+                "hard": [{ "type": "soul", "name": "fountain-soul" }]
+            }
+        },
+        {
+            "name": "snake17",
+            "nameRU": "Голубая змея",
+            "lvl": 17,
+            "img": "snake17.PNG",
+            "habitat": [{
+                "location": "north-road",
+                "coordinates": "I-4,5,6 / I, J-8,9,10",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "small-fangs" }, { "type": "other", "name": "poisonous-grass" }, { "type": "other", "name": "broken-fang" }],
+                "medium": [{ "type": "other", "name": "poisonlvl1" }, { "type": "other", "name": "poison" }],
+                "hard": [{ "type": "soul", "name": "happiness-soul" }]
+            }
+        },
+        {
+            "name": "rat23",
+            "nameRU": "Крысолак с топором",
+            "lvl": 23,
+            "img": "rat23.PNG",
+            "habitat": [{
+                    "location": "west-road",
+                    "coordinates": "D-5,6",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "G-4,5 / J-4 / I-11",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "dirty-fur" }],
+                "medium": [{ "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "gold-pyroxene" }, { "type": "other", "name": "injury" }],
+                "hard": [{ "type": "soul", "name": "power-soul" }, { "type": "soul", "name": "wizard-soul" }]
+            }
+        },
+        {
+            "name": "ghost33",
+            "nameRU": "Призрачный воин",
+            "lvl": 33,
+            "img": "ghost33.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "F - 8,9 / F, G-11 / I-7",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }, { "type": "other", "name": "alive-soul" }],
+                "medium": [{ "type": "other", "name": "muldian-medal" }],
+                "hard": [{ "type": "soul", "name": "wizard-soul" }]
+            }
+        },
+        {
+            "name": "raptor24",
+            "nameRU": "Раптор",
+            "lvl": 24,
+            "img": "raptor24.PNG",
+            "habitat": [{
+                    "location": "himurartu",
+                    "coordinates": "H-3,4",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "H-14",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "healing-root" }, { "type": "other", "name": "little-claw" }, { "type": "other", "name": "rounded-claw" }],
+                "medium": [{ "type": "other", "name": "red-pyroxene" }],
+                "hard": [{ "type": "soul", "name": "vitality-soul" }]
+            }
+        },
+        {
+            "name": "ghoul28",
+            "nameRU": "Вурдалак",
+            "lvl": 28,
+            "img": "ghoul28.PNG",
+            "habitat": [{
+                    "location": "himurartu",
+                    "coordinates": "G-5 / I-13",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "J-10",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "nelstadt",
+                    "coordinates": "E,F-9",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "wormy-meat" }],
+                "medium": [{ "type": "other", "name": "decaying-meat" }, { "type": "other", "name": "moonlight-grass" }, { "type": "other", "name": "replenishment-potion-60" }],
+                "hard": [{ "type": "soul", "name": "needle-soul" }, { "type": "soul", "name": "fountain-soul" }, { "type": "armor", "name": "dark-crown35", "slots": "0,1" }]
+            }
+        },
+        {
+            "name": "skeleton32",
+            "nameRU": "Скелет убийца",
+            "lvl": 32,
+            "img": "skeleton32.PNG",
+            "habitat": [{
+                    "location": "himurartu",
+                    "coordinates": "H, I-7",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "nelstadt",
+                    "coordinates": "G, H, I-5,6,7 / I-8,9,10",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "rotting-bone" }, { "type": "other", "name": "strong-bone" }, { "type": "other", "name": "thick-bone" }],
+                "medium": [],
+                "hard": [{ "type": "soul", "name": "sleeping-soul" }]
+            }
+        },
+        {
+            "name": "ant40",
+            "nameRU": "Муравей солдат",
+            "lvl": 40,
+            "img": "ant40.PNG",
+            "habitat": [{
+                    "location": "himurartu",
+                    "coordinates": "H,I, J-6",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "nelstadt",
+                    "coordinates": "I, J, K-6,7",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "sweet-bile" }, { "type": "other", "name": "volatile-bile" }, { "type": "other", "name": "acid-bile" }],
+                "medium": [{ "type": "other", "name": "empty-bottle" }],
+                "hard": [{ "type": "soul", "name": "snail-soul" }]
+            }
+        },
+        {
+            "name": "shin",
+            "nameRU": "Торговец доспехами Шин",
+            "lvl": "NPC",
+            "img": "shin.PNG",
+            "habitat": [{
+                    "location": "astir",
+                    "coordinates": "E-11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "armor", "name": "leather-helmet3", "slots": "0" }, { "type": "armor", "name": "iron-helmet6", "slots": "0" },
+                    { "type": "armor", "name": "plain-tunic1", "slots": "0" }, { "type": "armor", "name": "cotton-tunic1", "slots": "0" }, { "type": "armor", "name": "durable-vest7", "slots": "0" },
+                    { "type": "armor", "name": "leather-armor15", "slots": "0" }, { "type": "armor", "name": "leather-vest20", "slots": "0" }, { "type": "armor", "name": "linen-tunic15", "slots": "0" },
+                    { "type": "armor", "name": "trousers1", "slots": "0" }, { "type": "armor", "name": "quilted-pants1", "slots": "0" }, { "type": "armor", "name": "silk-pants5", "slots": "0" },
+                    { "type": "armor", "name": "magical-pants5", "slots": "0" }, { "type": "armor", "name": "leather-pants13", "slots": "0" }, { "type": "armor", "name": "leather-leggings20", "slots": "0" },
+                    { "type": "armor", "name": "linen-pants20", "slots": "0" }, { "type": "armor", "name": "quilted-mittens1", "slots": "0" }, { "type": "armor", "name": "suede-gloves5", "slots": "0" },
+                    { "type": "armor", "name": "silk-gloves11", "slots": "0" }, { "type": "armor", "name": "fighting-gloves11", "slots": "0" }, { "type": "armor", "name": "fur-gloves18", "slots": "0" },
+                    { "type": "armor", "name": "quilt-boots1", "slots": "0" }, { "type": "armor", "name": "linen-shoes1", "slots": "0" }, { "type": "armor", "name": "ordinary-shoes6", "slots": "0" },
+                    { "type": "armor", "name": "regular-boots16", "slots": "0" }, { "type": "armor", "name": "light-shield3", "slots": "0" }, { "type": "armor", "name": "wooden-shield7", "slots": "0" }
+                ]
+            }
+        },
+        {
+            "name": "kester",
+            "nameRU": "Торговец доспехами Кестер",
+            "lvl": "NPC",
+            "img": "kester.PNG",
+            "habitat": [{
+                    "location": "astir",
+                    "coordinates": "H-5",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "armor", "name": "leather-helmet3", "slots": "0" }, { "type": "armor", "name": "iron-helmet6", "slots": "0" },
+                    { "type": "armor", "name": "plain-tunic1", "slots": "0" }, { "type": "armor", "name": "cotton-tunic1", "slots": "0" }, { "type": "armor", "name": "durable-vest7", "slots": "0" },
+                    { "type": "armor", "name": "leather-armor15", "slots": "0" }, { "type": "armor", "name": "leather-vest20", "slots": "0" }, { "type": "armor", "name": "linen-tunic15", "slots": "0" },
+                    { "type": "armor", "name": "trousers1", "slots": "0" }, { "type": "armor", "name": "quilted-pants1", "slots": "0" }, { "type": "armor", "name": "silk-pants5", "slots": "0" },
+                    { "type": "armor", "name": "magical-pants5", "slots": "0" }, { "type": "armor", "name": "leather-pants13", "slots": "0" }, { "type": "armor", "name": "leather-leggings20", "slots": "0" },
+                    { "type": "armor", "name": "linen-pants20", "slots": "0" }, { "type": "armor", "name": "quilted-mittens1", "slots": "0" }, { "type": "armor", "name": "suede-gloves5", "slots": "0" },
+                    { "type": "armor", "name": "silk-gloves11", "slots": "0" }, { "type": "armor", "name": "fighting-gloves11", "slots": "0" }, { "type": "armor", "name": "fur-gloves18", "slots": "0" },
+                    { "type": "armor", "name": "quilt-boots1", "slots": "0" }, { "type": "armor", "name": "linen-shoes1", "slots": "0" }, { "type": "armor", "name": "ordinary-shoes6", "slots": "0" },
+                    { "type": "armor", "name": "regular-boots16", "slots": "0" }, { "type": "armor", "name": "light-shield3", "slots": "0" }, { "type": "armor", "name": "wooden-shield7", "slots": "0" }
+                ]
+            }
+        },
+        {
+            "name": "david",
+            "nameRU": "Торговец доспехами Давид",
+            "lvl": "NPC",
+            "img": "david.PNG",
+            "habitat": [{
+                    "location": "astir",
+                    "coordinates": "L-11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "armor", "name": "leather-helmet3", "slots": "0" }, { "type": "armor", "name": "iron-helmet6", "slots": "0" },
+                    { "type": "armor", "name": "plain-tunic1", "slots": "0" }, { "type": "armor", "name": "cotton-tunic1", "slots": "0" }, { "type": "armor", "name": "durable-vest7", "slots": "0" },
+                    { "type": "armor", "name": "leather-armor15", "slots": "0" }, { "type": "armor", "name": "leather-vest20", "slots": "0" }, { "type": "armor", "name": "linen-tunic15", "slots": "0" },
+                    { "type": "armor", "name": "trousers1", "slots": "0" }, { "type": "armor", "name": "quilted-pants1", "slots": "0" }, { "type": "armor", "name": "silk-pants5", "slots": "0" },
+                    { "type": "armor", "name": "magical-pants5", "slots": "0" }, { "type": "armor", "name": "leather-pants13", "slots": "0" }, { "type": "armor", "name": "leather-leggings20", "slots": "0" },
+                    { "type": "armor", "name": "linen-pants20", "slots": "0" }, { "type": "armor", "name": "quilted-mittens1", "slots": "0" }, { "type": "armor", "name": "suede-gloves5", "slots": "0" },
+                    { "type": "armor", "name": "silk-gloves11", "slots": "0" }, { "type": "armor", "name": "fighting-gloves11", "slots": "0" }, { "type": "armor", "name": "fur-gloves18", "slots": "0" },
+                    { "type": "armor", "name": "quilt-boots1", "slots": "0" }, { "type": "armor", "name": "linen-shoes1", "slots": "0" }, { "type": "armor", "name": "ordinary-shoes6", "slots": "0" },
+                    { "type": "armor", "name": "regular-boots16", "slots": "0" }, { "type": "armor", "name": "light-shield3", "slots": "0" }, { "type": "armor", "name": "wooden-shield7", "slots": "0" }
+                ]
+            }
+        },
+        {
+            "name": "vargas",
+            "nameRU": "Торговец доспехами Варгас",
+            "lvl": "NPC",
+            "img": "vargas.PNG",
+            "habitat": [{
+                    "location": "empire",
+                    "coordinates": "J-5",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "armor", "name": "viking-helmet16", "slots": "0" }, { "type": "armor", "name": "crown5", "slots": "0" }, { "type": "armor", "name": "woolen-clothes26", "slots": "0" },
+                    { "type": "armor", "name": "copper-armor35", "slots": "0" }, { "type": "armor", "name": "iron-scales30", "slots": "0" }, { "type": "armor", "name": "fireheart-armor28", "slots": "0" },
+                    { "type": "armor", "name": "adventurer-armor22", "slots": "0" }, { "type": "armor", "name": "leather-vest20", "slots": "0" }, { "type": "armor", "name": "long-crags26", "slots": "0" },
+                    { "type": "armor", "name": "iron-leggings35", "slots": "0" }, { "type": "armor", "name": "leather-leggings20", "slots": "0" }, { "type": "armor", "name": "iron-boots26", "slots": "0" },
+                    { "type": "armor", "name": "defender-shield35", "slots": "0" }, { "type": "armor", "name": "light-shield3", "slots": "0" }, { "type": "armor", "name": "wooden-shield7", "slots": "0" },
+                    { "type": "armor", "name": "metal-gloves30", "slots": "0" }, { "type": "armor", "name": "woolen-pants26", "slots": "0" }, { "type": "armor", "name": "metal-leggings35", "slots": "0" },
+                    { "type": "armor", "name": "smart-boots20", "slots": "0" }
+                ]
+            }
+        },
+        {
+            "name": "dip",
+            "nameRU": "Торговец доспехами Дип",
+            "lvl": "NPC",
+            "img": "dip.PNG",
+            "habitat": [{
+                    "location": "union",
+                    "coordinates": "I-12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "armor", "name": "viking-helmet16", "slots": "0" }, { "type": "armor", "name": "crown5", "slots": "0" }, { "type": "armor", "name": "woolen-clothes26", "slots": "0" },
+                    { "type": "armor", "name": "copper-armor35", "slots": "0" }, { "type": "armor", "name": "iron-scales30", "slots": "0" }, { "type": "armor", "name": "fireheart-armor28", "slots": "0" },
+                    { "type": "armor", "name": "adventurer-armor22", "slots": "0" }, { "type": "armor", "name": "leather-vest20", "slots": "0" }, { "type": "armor", "name": "long-crags26", "slots": "0" },
+                    { "type": "armor", "name": "iron-leggings35", "slots": "0" }, { "type": "armor", "name": "leather-leggings20", "slots": "0" }, { "type": "armor", "name": "iron-boots26", "slots": "0" },
+                    { "type": "armor", "name": "defender-shield35", "slots": "0" }, { "type": "armor", "name": "light-shield3", "slots": "0" }, { "type": "armor", "name": "wooden-shield7", "slots": "0" },
+                    { "type": "armor", "name": "metal-gloves30", "slots": "0" }, { "type": "armor", "name": "woolen-pants26", "slots": "0" }, { "type": "armor", "name": "metal-leggings35", "slots": "0" },
+                    { "type": "armor", "name": "smart-boots20", "slots": "0" }
+                ]
+            }
+        },
+        {
+            "name": "frederika",
+            "nameRU": "Торговка доспехами Фредерика",
+            "lvl": "NPC",
+            "img": "frederika.PNG",
+            "habitat": [{
+                    "location": "kingdom",
+                    "coordinates": "I-10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "armor", "name": "viking-helmet16", "slots": "0" }, { "type": "armor", "name": "crown5", "slots": "0" }, { "type": "armor", "name": "woolen-clothes26", "slots": "0" },
+                    { "type": "armor", "name": "copper-armor35", "slots": "0" }, { "type": "armor", "name": "iron-scales30", "slots": "0" }, { "type": "armor", "name": "fireheart-armor28", "slots": "0" },
+                    { "type": "armor", "name": "adventurer-armor22", "slots": "0" }, { "type": "armor", "name": "leather-vest20", "slots": "0" }, { "type": "armor", "name": "long-crags26", "slots": "0" },
+                    { "type": "armor", "name": "iron-leggings35", "slots": "0" }, { "type": "armor", "name": "leather-leggings20", "slots": "0" }, { "type": "armor", "name": "iron-boots26", "slots": "0" },
+                    { "type": "armor", "name": "defender-shield35", "slots": "0" }, { "type": "armor", "name": "light-shield3", "slots": "0" }, { "type": "armor", "name": "wooden-shield7", "slots": "0" },
+                    { "type": "armor", "name": "metal-gloves30", "slots": "0" }, { "type": "armor", "name": "woolen-pants26", "slots": "0" }, { "type": "armor", "name": "metal-leggings35", "slots": "0" },
+                    { "type": "armor", "name": "smart-boots20", "slots": "0" }
+                ]
+            }
+        },
+        {
+            "name": "yalumi",
+            "nameRU": "Торговец оружием Ялуми",
+            "lvl": "NPC",
+            "img": "yalumi.PNG",
+            "habitat": [{
+                    "location": "astir",
+                    "coordinates": "E-11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "weapon", "name": "knuckle3", "slots": "0" }, { "type": "weapon", "name": "short-sword1", "slots": "0" }, { "type": "weapon", "name": "heavy-sword7", "slots": "0" },
+                    { "type": "weapon", "name": "rapier14", "slots": "0" }, { "type": "weapon", "name": "double-strike-sword4", "slots": "0" }, { "type": "weapon", "name": "horse-sword16", "slots": "0" },
+                    { "type": "weapon", "name": "ax3", "slots": "0" }, { "type": "weapon", "name": "hand-ax16", "slots": "0" }, { "type": "weapon", "name": "battle-scythe7", "slots": "0" },
+                    { "type": "weapon", "name": "executioner-ax18", "slots": "0" }, { "type": "weapon", "name": "wooden-club1", "slots": "0" }, { "type": "weapon", "name": "club6", "slots": "0" },
+                    { "type": "weapon", "name": "scepter12", "slots": "0" }, { "type": "weapon", "name": "wooden-dze5", "slots": "0" }, { "type": "weapon", "name": "metal-mace25", "slots": "0" },
+                    { "type": "weapon", "name": "wooden-spear5", "slots": "0" }, { "type": "weapon", "name": "tournament-spear19", "slots": "0" }, { "type": "weapon", "name": "soldier-lance3", "slots": "0" },
+                    { "type": "weapon", "name": "trident9", "slots": "0" }, { "type": "weapon", "name": "roccob-halberd18", "slots": "0" }, { "type": "weapon", "name": "tekko20", "slots": "0" },
+                    { "type": "weapon", "name": "knife1", "slots": "0" }, { "type": "weapon", "name": "assassin-dagger6", "slots": "0" }, { "type": "weapon", "name": "stylet14", "slots": "0" },
+                    { "type": "weapon", "name": "bow4", "slots": "0" }, { "type": "weapon", "name": "short-bow14", "slots": "0" }, { "type": "weapon", "name": "crossbow10", "slots": "0" },
+                    { "type": "weapon", "name": "light-crossbow16", "slots": "0" }, { "type": "weapon", "name": "magic-wand1", "slots": "0" }, { "type": "weapon", "name": "wand-magical-distortion5", "slots": "0" },
+                    { "type": "weapon", "name": "whirlpool-wand17", "slots": "0" }, { "type": "weapon", "name": "mysterious-staff6", "slots": "0" }, { "type": "weapon", "name": "red-crystal-staff12", "slots": "0" }
+                ]
+            }
+        },
+        {
+            "name": "galo",
+            "nameRU": "Торговец оружием Гало",
+            "lvl": "NPC",
+            "img": "galo.PNG",
+            "habitat": [{
+                    "location": "astir",
+                    "coordinates": "H-5",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "weapon", "name": "knuckle3", "slots": "0" }, { "type": "weapon", "name": "short-sword1", "slots": "0" }, { "type": "weapon", "name": "heavy-sword7", "slots": "0" },
+                    { "type": "weapon", "name": "rapier14", "slots": "0" }, { "type": "weapon", "name": "double-strike-sword4", "slots": "0" }, { "type": "weapon", "name": "horse-sword16", "slots": "0" },
+                    { "type": "weapon", "name": "ax3", "slots": "0" }, { "type": "weapon", "name": "hand-ax16", "slots": "0" }, { "type": "weapon", "name": "battle-scythe7", "slots": "0" },
+                    { "type": "weapon", "name": "executioner-ax18", "slots": "0" }, { "type": "weapon", "name": "wooden-club1", "slots": "0" }, { "type": "weapon", "name": "club6", "slots": "0" },
+                    { "type": "weapon", "name": "scepter12", "slots": "0" }, { "type": "weapon", "name": "wooden-dze5", "slots": "0" }, { "type": "weapon", "name": "metal-mace25", "slots": "0" },
+                    { "type": "weapon", "name": "wooden-spear5", "slots": "0" }, { "type": "weapon", "name": "tournament-spear19", "slots": "0" }, { "type": "weapon", "name": "soldier-lance3", "slots": "0" },
+                    { "type": "weapon", "name": "trident9", "slots": "0" }, { "type": "weapon", "name": "roccob-halberd18", "slots": "0" }, { "type": "weapon", "name": "tekko20", "slots": "0" },
+                    { "type": "weapon", "name": "knife1", "slots": "0" }, { "type": "weapon", "name": "assassin-dagger6", "slots": "0" }, { "type": "weapon", "name": "stylet14", "slots": "0" },
+                    { "type": "weapon", "name": "bow4", "slots": "0" }, { "type": "weapon", "name": "short-bow14", "slots": "0" }, { "type": "weapon", "name": "crossbow10", "slots": "0" },
+                    { "type": "weapon", "name": "light-crossbow16", "slots": "0" }, { "type": "weapon", "name": "magic-wand1", "slots": "0" }, { "type": "weapon", "name": "wand-magical-distortion5", "slots": "0" },
+                    { "type": "weapon", "name": "whirlpool-wand17", "slots": "0" }, { "type": "weapon", "name": "mysterious-staff6", "slots": "0" }, { "type": "weapon", "name": "red-crystal-staff12", "slots": "0" }
+                ]
+            }
+        },
+        {
+            "name": "lu",
+            "nameRU": "Торговец оружием Лу",
+            "lvl": "NPC",
+            "img": "lu.PNG",
+            "habitat": [{
+                    "location": "astir",
+                    "coordinates": "L-11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "weapon", "name": "knuckle3", "slots": "0" }, { "type": "weapon", "name": "short-sword1", "slots": "0" }, { "type": "weapon", "name": "heavy-sword7", "slots": "0" },
+                    { "type": "weapon", "name": "rapier14", "slots": "0" }, { "type": "weapon", "name": "double-strike-sword4", "slots": "0" }, { "type": "weapon", "name": "horse-sword16", "slots": "0" },
+                    { "type": "weapon", "name": "ax3", "slots": "0" }, { "type": "weapon", "name": "hand-ax16", "slots": "0" }, { "type": "weapon", "name": "battle-scythe7", "slots": "0" },
+                    { "type": "weapon", "name": "executioner-ax18", "slots": "0" }, { "type": "weapon", "name": "wooden-club1", "slots": "0" }, { "type": "weapon", "name": "club6", "slots": "0" },
+                    { "type": "weapon", "name": "scepter12", "slots": "0" }, { "type": "weapon", "name": "wooden-dze5", "slots": "0" }, { "type": "weapon", "name": "metal-mace25", "slots": "0" },
+                    { "type": "weapon", "name": "wooden-spear5", "slots": "0" }, { "type": "weapon", "name": "tournament-spear19", "slots": "0" }, { "type": "weapon", "name": "soldier-lance3", "slots": "0" },
+                    { "type": "weapon", "name": "trident9", "slots": "0" }, { "type": "weapon", "name": "roccob-halberd18", "slots": "0" }, { "type": "weapon", "name": "tekko20", "slots": "0" },
+                    { "type": "weapon", "name": "knife1", "slots": "0" }, { "type": "weapon", "name": "assassin-dagger6", "slots": "0" }, { "type": "weapon", "name": "stylet14", "slots": "0" },
+                    { "type": "weapon", "name": "bow4", "slots": "0" }, { "type": "weapon", "name": "short-bow14", "slots": "0" }, { "type": "weapon", "name": "crossbow10", "slots": "0" },
+                    { "type": "weapon", "name": "light-crossbow16", "slots": "0" }, { "type": "weapon", "name": "magic-wand1", "slots": "0" }, { "type": "weapon", "name": "wand-magical-distortion5", "slots": "0" },
+                    { "type": "weapon", "name": "whirlpool-wand17", "slots": "0" }, { "type": "weapon", "name": "mysterious-staff6", "slots": "0" }, { "type": "weapon", "name": "red-crystal-staff12", "slots": "0" }
+                ]
+            }
+        },
+        {
+            "name": "kerring",
+            "nameRU": "Торговец оружием Керринг",
+            "lvl": "NPC",
+            "img": "kerring.PNG",
+            "habitat": [{
+                    "location": "empire",
+                    "coordinates": "J-7",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "weapon", "name": "long-knife27", "slots": "0" }, { "type": "weapon", "name": "stalker-knife21", "slots": "0" }, { "type": "weapon", "name": "long-sword20", "slots": "0" },
+                    { "type": "weapon", "name": "wide-sword26", "slots": "0" }, { "type": "weapon", "name": "skimitar30", "slots": "0" }, { "type": "weapon", "name": "flaming-blade22", "slots": "0" },
+                    { "type": "weapon", "name": "balance-sword31", "slots": "0" }, { "type": "weapon", "name": "war-ax24", "slots": "0" }, { "type": "weapon", "name": "cruel-ax23", "slots": "0" },
+                    { "type": "weapon", "name": "heavenly-halberd29", "slots": "0" }, { "type": "weapon", "name": "powerful-mace28", "slots": "0" }, { "type": "weapon", "name": "metal-mace25", "slots": "0" },
+                    { "type": "weapon", "name": "long-peak27", "slots": "0" }, { "type": "weapon", "name": "reinforced-spear35", "slots": "0" }, { "type": "weapon", "name": "icy-peak35", "slots": "0" },
+                    { "type": "weapon", "name": "executioner27", "slots": "0" }, { "type": "weapon", "name": "long-bow26", "slots": "0" }, { "type": "weapon", "name": "hunter-bow34", "slots": "0" },
+                    { "type": "weapon", "name": "sunshine-bow29", "slots": "0" }, { "type": "weapon", "name": "moonlight-wand21", "slots": "0" }, { "type": "weapon", "name": "sage-staff21", "slots": "0" },
+                    { "type": "weapon", "name": "saber40", "slots": "0" }, { "type": "weapon", "name": "big-two-hand-sword40", "slots": "0" }, { "type": "weapon", "name": "mithril-tecubo40", "slots": "0" },
+                    { "type": "weapon", "name": "icy-spear40", "slots": "0" }, { "type": "weapon", "name": "clawed-paw40", "slots": "0" }, { "type": "weapon", "name": "moonlight-bow40", "slots": "0" },
+                    { "type": "weapon", "name": "star-wand40", "slots": "0" }, { "type": "weapon", "name": "oracle-eye40", "slots": "0" }
+                ]
+            }
+        },
+        {
+            "name": "forks",
+            "nameRU": "Торговец оружием Форкс",
+            "lvl": "NPC",
+            "img": "forks.PNG",
+            "habitat": [{
+                    "location": "union",
+                    "coordinates": "I-11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "weapon", "name": "long-knife27", "slots": "0" }, { "type": "weapon", "name": "stalker-knife21", "slots": "0" }, { "type": "weapon", "name": "long-sword20", "slots": "0" },
+                    { "type": "weapon", "name": "wide-sword26", "slots": "0" }, { "type": "weapon", "name": "skimitar30", "slots": "0" }, { "type": "weapon", "name": "flaming-blade22", "slots": "0" },
+                    { "type": "weapon", "name": "balance-sword31", "slots": "0" }, { "type": "weapon", "name": "war-ax24", "slots": "0" }, { "type": "weapon", "name": "cruel-ax23", "slots": "0" },
+                    { "type": "weapon", "name": "heavenly-halberd29", "slots": "0" }, { "type": "weapon", "name": "powerful-mace28", "slots": "0" }, { "type": "weapon", "name": "metal-mace25", "slots": "0" },
+                    { "type": "weapon", "name": "long-peak27", "slots": "0" }, { "type": "weapon", "name": "reinforced-spear35", "slots": "0" }, { "type": "weapon", "name": "icy-peak35", "slots": "0" },
+                    { "type": "weapon", "name": "executioner27", "slots": "0" }, { "type": "weapon", "name": "long-bow26", "slots": "0" }, { "type": "weapon", "name": "hunter-bow34", "slots": "0" },
+                    { "type": "weapon", "name": "sunshine-bow29", "slots": "0" }, { "type": "weapon", "name": "moonlight-wand21", "slots": "0" }, { "type": "weapon", "name": "sage-staff21", "slots": "0" },
+                    { "type": "weapon", "name": "saber40", "slots": "0" }, { "type": "weapon", "name": "big-two-hand-sword40", "slots": "0" }, { "type": "weapon", "name": "mithril-tecubo40", "slots": "0" },
+                    { "type": "weapon", "name": "icy-spear40", "slots": "0" }, { "type": "weapon", "name": "clawed-paw40", "slots": "0" }, { "type": "weapon", "name": "moonlight-bow40", "slots": "0" },
+                    { "type": "weapon", "name": "star-wand40", "slots": "0" }, { "type": "weapon", "name": "oracle-eye40", "slots": "0" }
+                ]
+            }
+        },
+        {
+            "name": "servia",
+            "nameRU": "Торговка оружием Сервия",
+            "lvl": "NPC",
+            "img": "servia.PNG",
+            "habitat": [{
+                    "location": "kingdom",
+                    "coordinates": "I-10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "weapon", "name": "long-knife27", "slots": "0" }, { "type": "weapon", "name": "stalker-knife21", "slots": "0" }, { "type": "weapon", "name": "long-sword20", "slots": "0" },
+                    { "type": "weapon", "name": "wide-sword26", "slots": "0" }, { "type": "weapon", "name": "skimitar30", "slots": "0" }, { "type": "weapon", "name": "flaming-blade22", "slots": "0" },
+                    { "type": "weapon", "name": "balance-sword31", "slots": "0" }, { "type": "weapon", "name": "war-ax24", "slots": "0" }, { "type": "weapon", "name": "cruel-ax23", "slots": "0" },
+                    { "type": "weapon", "name": "heavenly-halberd29", "slots": "0" }, { "type": "weapon", "name": "powerful-mace28", "slots": "0" }, { "type": "weapon", "name": "metal-mace25", "slots": "0" },
+                    { "type": "weapon", "name": "long-peak27", "slots": "0" }, { "type": "weapon", "name": "reinforced-spear35", "slots": "0" }, { "type": "weapon", "name": "icy-peak35", "slots": "0" },
+                    { "type": "weapon", "name": "executioner27", "slots": "0" }, { "type": "weapon", "name": "long-bow26", "slots": "0" }, { "type": "weapon", "name": "hunter-bow34", "slots": "0" },
+                    { "type": "weapon", "name": "sunshine-bow29", "slots": "0" }, { "type": "weapon", "name": "moonlight-wand21", "slots": "0" }, { "type": "weapon", "name": "sage-staff21", "slots": "0" },
+                    { "type": "weapon", "name": "saber40", "slots": "0" }, { "type": "weapon", "name": "big-two-hand-sword40", "slots": "0" }, { "type": "weapon", "name": "mithril-tecubo40", "slots": "0" },
+                    { "type": "weapon", "name": "icy-spear40", "slots": "0" }, { "type": "weapon", "name": "clawed-paw40", "slots": "0" }, { "type": "weapon", "name": "moonlight-bow40", "slots": "0" },
+                    { "type": "weapon", "name": "star-wand40", "slots": "0" }, { "type": "weapon", "name": "oracle-eye40", "slots": "0" }
+                ]
+            }
+        },
+        {
+            "name": "flaren",
+            "nameRU": "Торговец предметами Фларрен",
+            "lvl": "NPC",
+            "img": "flaren.PNG",
+            "habitat": [{
+                    "location": "astir",
+                    "coordinates": "E-12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "meat" }, { "type": "other", "name": "painkiller" }, { "type": "other", "name": "injury" },
+                    { "type": "other", "name": "replenishment-potion" }, { "type": "other", "name": "holy-water" }, { "type": "other", "name": "arrow" },
+                    { "type": "other", "name": "crossbow-bolt" }, { "type": "other", "name": "trap" }, { "type": "other", "name": "pendant-tool" }
+                ]
+            }
+        },
+        {
+            "name": "rita",
+            "nameRU": "Торговка предметами Рита",
+            "lvl": "NPC",
+            "img": "rita.PNG",
+            "habitat": [{
+                    "location": "astir",
+                    "coordinates": "H-6",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "meat" }, { "type": "other", "name": "painkiller" }, { "type": "other", "name": "injury" },
+                    { "type": "other", "name": "replenishment-potion" }, { "type": "other", "name": "holy-water" }, { "type": "other", "name": "arrow" },
+                    { "type": "other", "name": "crossbow-bolt" }, { "type": "other", "name": "trap" }, { "type": "other", "name": "pendant-tool" }
+                ]
+            }
+        },
+        {
+            "name": "uikki",
+            "nameRU": "Торговец предметами Уикки",
+            "lvl": "NPC",
+            "img": "uikki.PNG",
+            "habitat": [{
+                    "location": "astir",
+                    "coordinates": "M-11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "meat" }, { "type": "other", "name": "painkiller" }, { "type": "other", "name": "injury" },
+                    { "type": "other", "name": "replenishment-potion" }, { "type": "other", "name": "holy-water" }, { "type": "other", "name": "arrow" },
+                    { "type": "other", "name": "crossbow-bolt" }, { "type": "other", "name": "trap" }, { "type": "other", "name": "pendant-tool" }
+                ]
+            }
+        },
+        {
+            "name": "ben",
+            "nameRU": "Торговец предметами Бен",
+            "lvl": "NPC",
+            "img": "ben.PNG",
+            "habitat": [{
+                    "location": "astir",
+                    "coordinates": "H-10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "meat" }, { "type": "other", "name": "painkiller" }, { "type": "other", "name": "injury" },
+                    { "type": "other", "name": "replenishment-potion" }, { "type": "other", "name": "holy-water" }, { "type": "other", "name": "arrow" },
+                    { "type": "other", "name": "crossbow-bolt" }, { "type": "other", "name": "trap" }, { "type": "other", "name": "pendant-tool" }
+                ]
+            }
+        },
+        {
+            "name": "livvi",
+            "nameRU": "Торговец предметами Ливви",
+            "lvl": "NPC",
+            "img": "livvi.PNG",
+            "habitat": [{
+                    "location": "union",
+                    "coordinates": "F-10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "meat" }, { "type": "other", "name": "painkiller" }, { "type": "other", "name": "injury" },
+                    { "type": "other", "name": "replenishment-potion" }, { "type": "other", "name": "holy-water" }, { "type": "other", "name": "arrow" },
+                    { "type": "other", "name": "crossbow-bolt" }, { "type": "other", "name": "trap" }, { "type": "other", "name": "pendant-tool" }
+                ]
+            }
+        },
+        {
+            "name": "givern",
+            "nameRU": "Торговец предметами Гиверн",
+            "lvl": "NPC",
+            "img": "givern.PNG",
+            "habitat": [{
+                    "location": "kingdom",
+                    "coordinates": "F-10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "meat" }, { "type": "other", "name": "painkiller" }, { "type": "other", "name": "injury" },
+                    { "type": "other", "name": "replenishment-potion" }, { "type": "other", "name": "holy-water" }, { "type": "other", "name": "arrow" },
+                    { "type": "other", "name": "crossbow-bolt" }, { "type": "other", "name": "trap" }, { "type": "other", "name": "pendant-tool" }
+                ]
+            }
+        },
+        {
+            "name": "turena",
+            "nameRU": "Торговка предметами Турена",
+            "lvl": "NPC",
+            "img": "turena.PNG",
+            "habitat": [{
+                    "location": "empire",
+                    "coordinates": "J-5",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "meat" }, { "type": "other", "name": "painkiller" }, { "type": "other", "name": "injury" },
+                    { "type": "other", "name": "replenishment-potion" }, { "type": "other", "name": "holy-water" }, { "type": "other", "name": "arrow" },
+                    { "type": "other", "name": "crossbow-bolt" }, { "type": "other", "name": "trap" }, { "type": "other", "name": "pendant-tool" }
+                ]
+            }
+        },
+        {
+            "name": "merchant",
+            "nameRU": "Купец",
+            "lvl": "NPC",
+            "img": "merchant.PNG",
+            "habitat": [{
+                    "location": "kingdom",
+                    "coordinates": "H-11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "empire",
+                    "coordinates": "G-8",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "union",
+                    "coordinates": "G-12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "bijouterie", "name": "necklace30" }, { "type": "bijouterie", "name": "hunter-necklace30" }, { "type": "bijouterie", "name": "ancient-necklace30" },
+                    { "type": "bijouterie", "name": "war-necklace30" }, { "type": "bijouterie", "name": "earring30" }, { "type": "bijouterie", "name": "silicon-earring30" },
+                    { "type": "bijouterie", "name": "hunter-ring30" }, { "type": "bijouterie", "name": "belt30", "slots": "2" }, { "type": "bijouterie", "name": "leather-belt30", "slots": "2" },
+                    { "type": "bijouterie", "name": "punch-necklace30" }, { "type": "bijouterie", "name": "vigilance-necklace30" }, { "type": "bijouterie", "name": "light-necklace30" },
+                    { "type": "bijouterie", "name": "fire-earring30" }, { "type": "bijouterie", "name": "power-earring30" }, { "type": "bijouterie", "name": "serenity-earring30" },
+                    { "type": "bijouterie", "name": "indifference-earring30" }, { "type": "bijouterie", "name": "tear30" }, { "type": "bijouterie", "name": "gold-ring30" },
+                    { "type": "bijouterie", "name": "crystal-ring30" }, { "type": "bijouterie", "name": "fire-cloak30" }, { "type": "bijouterie", "name": "skill-cloak30" },
+                    { "type": "bijouterie", "name": "beast-ring30" }, { "type": "bijouterie", "name": "bug-ring30" }, { "type": "bijouterie", "name": "sacred-ring30" },
+                    { "type": "bijouterie", "name": "raptor-ring30" }, { "type": "bijouterie", "name": "magic-belt30", "slots": "2" }, { "type": "bijouterie", "name": "speed-belt30", "slots": "1,2" },
+                    { "type": "bijouterie", "name": "hunter-belt30", "slots": "1,2" }, { "type": "bijouterie", "name": "fire-heat-cloak30" }, { "type": "bijouterie", "name": "celestial-mantle30" },
+                    { "type": "bijouterie", "name": "darkness-cloak30" }, { "type": "bijouterie", "name": "gold-cloak30" }, { "type": "bijouterie", "name": "light-necklace20" },
+                    { "type": "bijouterie", "name": "keeper-necklace20" }, { "type": "bijouterie", "name": "pain-necklace20" }, { "type": "bijouterie", "name": "kobalt-earring20" },
+                    { "type": "bijouterie", "name": "vojd-earring20" }, { "type": "bijouterie", "name": "titan-earring20" }, { "type": "bijouterie", "name": "killer-earring20" },
+                    { "type": "bijouterie", "name": "gold-earring20" }, { "type": "bijouterie", "name": "bronze-earring20" }, { "type": "bijouterie", "name": "soul-earring20" },
+                    { "type": "bijouterie", "name": "focus-earring20" }, { "type": "bijouterie", "name": "rage-ring1" }, { "type": "bijouterie", "name": "ancient-ring1" },
+                    { "type": "bijouterie", "name": "ghost-ring1" }, { "type": "bijouterie", "name": "bird-ring20" }, { "type": "bijouterie", "name": "voltek-ring20" },
+                    { "type": "bijouterie", "name": "redhot-ring40" }, { "type": "bijouterie", "name": "blizzard-ring20" }, { "type": "bijouterie", "name": "deffender-ring30" },
+                    { "type": "bijouterie", "name": "magician-belt20", "slots": "2" }, { "type": "bijouterie", "name": "guard-belt20", "slots": "2" }, { "type": "bijouterie", "name": "lionheart-belt20", "slots": "2" },
+                    { "type": "bijouterie", "name": "eagle-cloak1" }, { "type": "bijouterie", "name": "fire-cloak1" }, { "type": "bijouterie", "name": "earth-cloak1" },
+                    { "type": "bijouterie", "name": "eternity-cloak1" }, { "type": "bijouterie", "name": "coolbreeze-cloak1" }
+                ]
+            }
+        },
+        {
+            "name": "weapon-master",
+            "nameRU": "Мастер оружия",
+            "lvl": "NPC",
+            "img": "weapon-master.PNG",
+            "habitat": [{
+                    "location": "union",
+                    "coordinates": "K-12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "empire",
+                    "coordinates": "F-10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "kingdom",
+                    "coordinates": "I-10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "weapon", "name": "wide-ax40", "slots": "1" }, { "type": "weapon", "name": "guardian-bow40", "slots": "1" }, { "type": "weapon", "name": "meteor-knife40", "slots": "1" },
+                    { "type": "weapon", "name": "darkness-blade40", "slots": "1" }, { "type": "weapon", "name": "military-crossbow40", "slots": "1" }, { "type": "weapon", "name": "spata40", "slots": "1" },
+                    { "type": "weapon", "name": "claymor40", "slots": "1" }, { "type": "weapon", "name": "viking-ax40", "slots": "1" }, { "type": "weapon", "name": "viking-blunt40", "slots": "1" },
+                    { "type": "weapon", "name": "piercing-lance40", "slots": "1" }, { "type": "weapon", "name": "mithril-claws40", "slots": "1" }, { "type": "weapon", "name": "wedge-hammer40", "slots": "1" },
+                    { "type": "weapon", "name": "heavy-spear40", "slots": "1" }, { "type": "weapon", "name": "graceful-wand40", "slots": "1" }, { "type": "weapon", "name": "skeleton-staff40", "slots": "1" },
+                    { "type": "weapon", "name": "razwide-ax45", "slots": "1" }, { "type": "weapon", "name": "silwide-ax45", "slots": "1" }, { "type": "weapon", "name": "runwide-ax45", "slots": "2" },
+                    { "type": "weapon", "name": "razguardian-bow45", "slots": "1" }, { "type": "weapon", "name": "silguardian-bow45", "slots": "1" }, { "type": "weapon", "name": "runguardian-bow45", "slots": "2" },
+                    { "type": "weapon", "name": "silmeteor-knife45", "slots": "1" }, { "type": "weapon", "name": "runmeteor-knife45", "slots": "2" }, { "type": "weapon", "name": "sildarkness-blade45", "slots": "1" },
+                    { "type": "weapon", "name": "rundarkness-blade45", "slots": "2" }, { "type": "weapon", "name": "razmilitary-crossbow45", "slots": "1" }, { "type": "weapon", "name": "silmilitary-crossbow45", "slots": "1" },
+                    { "type": "weapon", "name": "runmilitary-crossbow45", "slots": "2" }, { "type": "weapon", "name": "razspata45", "slots": "1" }, { "type": "weapon", "name": "silspata45", "slots": "1" },
+                    { "type": "weapon", "name": "runspata45", "slots": "2" }, { "type": "weapon", "name": "razclaymor45", "slots": "1" }, { "type": "weapon", "name": "silclaymor45", "slots": "1" },
+                    { "type": "weapon", "name": "runclaymor45", "slots": "2" }, { "type": "weapon", "name": "silviking-ax45", "slots": "1" }, { "type": "weapon", "name": "runviking-ax45", "slots": "2" },
+                    { "type": "weapon", "name": "silviking-blunt45", "slots": "1" }, { "type": "weapon", "name": "runviking-blunt45", "slots": "2" }, { "type": "weapon", "name": "razpiercing-lance45", "slots": "1" },
+                    { "type": "weapon", "name": "runpiercing-lance45", "slots": "2" }, { "type": "weapon", "name": "razmithril-claws45", "slots": "1" }, { "type": "weapon", "name": "silmithril-claws45", "slots": "1" },
+                    { "type": "weapon", "name": "runmithril-claws45", "slots": "2" }, { "type": "weapon", "name": "razwedge-hammer45", "slots": "1" }, { "type": "weapon", "name": "silwedge-hammer45", "slots": "1" },
+                    { "type": "weapon", "name": "runwedge-hammer45", "slots": "2" }, { "type": "weapon", "name": "runheavy-spear45", "slots": "2" }, { "type": "weapon", "name": "silgraceful-wand45", "slots": "1" },
+                    { "type": "weapon", "name": "rungraceful-wand45", "slots": "2" }, { "type": "weapon", "name": "silskeleton-staff45", "slots": "1" }, { "type": "weapon", "name": "runskeleton-staff45", "slots": "2" }
+                ]
+            }
+        },
+        {
+            "name": "armor-exchanger",
+            "nameRU": "Обмен доспехов",
+            "lvl": "NPC",
+            "img": "armor-exchanger.PNG",
+            "habitat": [{
+                    "location": "union",
+                    "coordinates": "K-9",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "empire",
+                    "coordinates": "G-8",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "kingdom",
+                    "coordinates": "I-10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "armor", "name": "nightmare-helmet45", "slots": "1" }, { "type": "armor", "name": "wing-helmet45", "slots": "1" }, { "type": "armor", "name": "ajur-crown45", "slots": "1" },
+                    { "type": "armor", "name": "korona45", "slots": "1" }, { "type": "armor", "name": "magic-hat45", "slots": "1" }, { "type": "armor", "name": "glasses45", "slots": "1" },
+                    { "type": "armor", "name": "aim45", "slots": "1" }, { "type": "armor", "name": "plate-armor45", "slots": "1" }, { "type": "armor", "name": "monastic-cassock45", "slots": "1" },
+                    { "type": "armor", "name": "durable-tunic45", "slots": "2" }, { "type": "armor", "name": "plate-breastplate45", "slots": "1" }, { "type": "armor", "name": "moon-clothes45", "slots": "1" },
+                    { "type": "armor", "name": "mentor-clothes45", "slots": "1" }, { "type": "armor", "name": "gloves-shadow45", "slots": "1" }, { "type": "armor", "name": "gloves-wizard45", "slots": "1" },
+                    { "type": "armor", "name": "chrome-gloves45", "slots": "1" }, { "type": "armor", "name": "glorious-gauntlets45", "slots": "1" }, { "type": "armor", "name": "gold-bracelet45", "slots": "1" },
+                    { "type": "armor", "name": "plate-greaves45", "slots": "1" }, { "type": "armor", "name": "acolyte-pants45", "slots": "1" }, { "type": "armor", "name": "fabric-pants45", "slots": "1" },
+                    { "type": "armor", "name": "moon-pants45", "slots": "1" }, { "type": "armor", "name": "pants-shadow45", "slots": "1" }, { "type": "armor", "name": "sacred-pants45", "slots": "1" },
+                    { "type": "armor", "name": "eternal-night-pants45", "slots": "1" }, { "type": "armor", "name": "elusive-boots45", "slots": "1" }, { "type": "armor", "name": "tailor-shoes45", "slots": "1" },
+                    { "type": "armor", "name": "ghost-boots45", "slots": "1" }, { "type": "armor", "name": "traveler-boots45", "slots": "1" }, { "type": "armor", "name": "suede-boots45", "slots": "1" },
+                    { "type": "armor", "name": "vitality-boots45", "slots": "1" }, { "type": "armor", "name": "plate-shoes45", "slots": "1" }
+                ]
+            }
+        },
+        {
+            "name": "saimon",
+            "nameRU": "Саймон",
+            "lvl": "NPC",
+            "img": "saimon.PNG",
+            "habitat": [{
+                    "location": "union",
+                    "coordinates": "K-11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "weapon", "name": "icy-sword35", "slots": "1" }, { "type": "weapon", "name": "bloody-sword35", "slots": "1" }, { "type": "weapon", "name": "raven-beak35", "slots": "1" },
+                    { "type": "weapon", "name": "ax-crusher35", "slots": "1" }, { "type": "weapon", "name": "royal-rod35", "slots": "1" }, { "type": "weapon", "name": "silver-dagger35", "slots": "1" },
+                    { "type": "weapon", "name": "killing-claw35", "slots": "1" }, { "type": "weapon", "name": "swift-bow35", "slots": "1" }, { "type": "weapon", "name": "heavy-crossbow35", "slots": "1" },
+                    { "type": "weapon", "name": "fire-rod35", "slots": "1" }, { "type": "weapon", "name": "iron-staff35", "slots": "1" }, { "type": "weapon", "name": "battle-halberd35", "slots": "1" },
+                    { "type": "weapon", "name": "war-spear35", "slots": "1" }
+                ]
+            }
+        },
+        {
+            "name": "ogun8",
+            "nameRU": "Огун VIII",
+            "lvl": "NPC",
+            "img": "ogun8.PNG",
+            "habitat": [{
+                    "location": "kingdom",
+                    "coordinates": "H-10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "weapon", "name": "icy-sword35", "slots": "1" }, { "type": "weapon", "name": "bloody-sword35", "slots": "1" }, { "type": "weapon", "name": "raven-beak35", "slots": "1" },
+                    { "type": "weapon", "name": "ax-crusher35", "slots": "1" }, { "type": "weapon", "name": "royal-rod35", "slots": "1" }, { "type": "weapon", "name": "silver-dagger35", "slots": "1" },
+                    { "type": "weapon", "name": "killing-claw35", "slots": "1" }, { "type": "weapon", "name": "swift-bow35", "slots": "1" }, { "type": "weapon", "name": "heavy-crossbow35", "slots": "1" },
+                    { "type": "weapon", "name": "fire-rod35", "slots": "1" }, { "type": "weapon", "name": "iron-staff35", "slots": "1" }, { "type": "weapon", "name": "battle-halberd35", "slots": "1" },
+                    { "type": "weapon", "name": "war-spear35", "slots": "1" }
+                ]
+            }
+        },
+        {
+            "name": "sodan",
+            "nameRU": "Содан",
+            "lvl": "NPC",
+            "img": "sodan.PNG",
+            "habitat": [{
+                    "location": "empire",
+                    "coordinates": "G-9",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "weapon", "name": "icy-sword35", "slots": "1" }, { "type": "weapon", "name": "bloody-sword35", "slots": "1" }, { "type": "weapon", "name": "raven-beak35", "slots": "1" },
+                    { "type": "weapon", "name": "ax-crusher35", "slots": "1" }, { "type": "weapon", "name": "royal-rod35", "slots": "1" }, { "type": "weapon", "name": "silver-dagger35", "slots": "1" },
+                    { "type": "weapon", "name": "killing-claw35", "slots": "1" }, { "type": "weapon", "name": "swift-bow35", "slots": "1" }, { "type": "weapon", "name": "heavy-crossbow35", "slots": "1" },
+                    { "type": "weapon", "name": "fire-rod35", "slots": "1" }, { "type": "weapon", "name": "iron-staff35", "slots": "1" }, { "type": "weapon", "name": "battle-halberd35", "slots": "1" },
+                    { "type": "weapon", "name": "war-spear35", "slots": "1" }
+                ]
+            }
+        },
+        {
+            "name": "skeleton50",
+            "nameRU": "Доблестный рыцарь",
+            "lvl": 50,
+            "img": "skeleton50.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "F-8,12 / I-10",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "muldian-medal" }],
+                "medium": [{ "type": "other", "name": "crush-rainbow-pyroxene" }, { "type": "other", "name": "rainbow-pyroxene" }, { "type": "other", "name": "rainbowlvl3" }],
+                "hard": [{ "type": "other", "name": "hero-charm" }, { "type": "soul", "name": "calm-soul" }, { "type": "soul", "name": "guardian-soul" }]
+            }
+        },
+        {
+            "name": "ghost55",
+            "nameRU": "Призрак героя",
+            "lvl": 55,
+            "img": "ghost55.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "F-8,12 / I-10",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "muldian-medal" }],
+                "medium": [{ "type": "other", "name": "crush-rainbow-pyroxene" }, { "type": "other", "name": "rainbow-pyroxene" }, { "type": "other", "name": "rainbowlvl3" }],
+                "hard": [{ "type": "other", "name": "hero-charm" }, { "type": "soul", "name": "reason-soul" }, { "type": "soul", "name": "keen-soul" }]
+            }
+        },
+        {
+            "name": "ghost31",
+            "nameRU": "Призрачный рекрут",
+            "lvl": 31,
+            "img": "ghost31.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "F - 8,9 / F, G-11 / I-7",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }, { "type": "other", "name": "desperate-soul" }],
+                "medium": [{ "type": "other", "name": "muldian-medal" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "ghost39",
+            "nameRU": "Призрачный страж",
+            "lvl": 39,
+            "img": "ghost39.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "F - 8,9 / F, G-11 / I-7",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }, { "type": "other", "name": "obsessed-soul" }, { "type": "other", "name": "alive-soul" }],
+                "medium": [{ "type": "other", "name": "muldian-medal" }, { "type": "other", "name": "firelvl2" }],
+                "hard": [{ "type": "armor", "name": "smart-boots20", "slots": "1" }, { "type": "armor", "name": "iron-boots26", "slots": "1" }]
+            }
+        },
+        {
+            "name": "mary",
+            "nameRU": "Мэри",
+            "lvl": "NPC",
+            "img": "mary.PNG",
+            "habitat": [{
+                    "location": "astir",
+                    "coordinates": "E-12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "armor", "name": "humanmbody35", "slots": "1" }, { "type": "armor", "name": "humanmarm35", "slots": "1" }, { "type": "armor", "name": "humanmleg35", "slots": "1" }, { "type": "armor", "name": "humanmfoot35", "slots": "1" },
+                    { "type": "armor", "name": "humanwbody35", "slots": "1" }, { "type": "armor", "name": "humanwarm35", "slots": "1" }, { "type": "armor", "name": "humanwleg35", "slots": "1" }, { "type": "armor", "name": "humanwfoot35", "slots": "1" },
+                    { "type": "armor", "name": "elfmbody35", "slots": "1" }, { "type": "armor", "name": "elfmarm35", "slots": "1" }, { "type": "armor", "name": "elfmleg35", "slots": "1" }, { "type": "armor", "name": "elfmfoot35", "slots": "1" },
+                    { "type": "armor", "name": "elfwbody35", "slots": "1" }, { "type": "armor", "name": "elfwarm35", "slots": "1" }, { "type": "armor", "name": "elfwleg35", "slots": "1" }, { "type": "armor", "name": "elfwfoot35", "slots": "1" },
+                    { "type": "armor", "name": "cvergbody35", "slots": "1" }, { "type": "armor", "name": "cvergarm35", "slots": "1" }, { "type": "armor", "name": "cvergleg35", "slots": "1" }, { "type": "armor", "name": "cvergfoot35", "slots": "1" },
+                    { "type": "armor", "name": "mirinabody35", "slots": "1" }, { "type": "armor", "name": "mirinaarm35", "slots": "1" }, { "type": "armor", "name": "mirinaleg35", "slots": "1" }, { "type": "armor", "name": "mirinafoot35", "slots": "1" },
+                    { "type": "armor", "name": "enkidubody35", "slots": "1" }, { "type": "armor", "name": "enkiduarm35", "slots": "1" }, { "type": "armor", "name": "enkiduleg35", "slots": "1" }, { "type": "armor", "name": "enkidufoot35", "slots": "1" },
+                    { "type": "armor", "name": "krolbody35", "slots": "1" }, { "type": "armor", "name": "krolarm35", "slots": "1" }, { "type": "armor", "name": "krolleg35", "slots": "1" }, { "type": "armor", "name": "krolfoot35", "slots": "1" }
+                ]
+            }
+        },
+        {
+            "name": "djo",
+            "nameRU": "Джо",
+            "lvl": "NPC",
+            "img": "djo.PNG",
+            "habitat": [{
+                    "location": "astir",
+                    "coordinates": "E-12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "other",
+                    "coordinates": "NPC",
+                    "day": false,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "armor", "name": "rhumanmbody40", "slots": "1" }, { "type": "armor", "name": "rhumanmarm40", "slots": "1" }, { "type": "armor", "name": "rhumanmleg40", "slots": "1" }, { "type": "armor", "name": "rhumanmfoot40", "slots": "1" }, { "type": "armor", "name": "rhumanmhead40", "slots": "1" },
+                    { "type": "armor", "name": "rhumanwbody40", "slots": "1" }, { "type": "armor", "name": "rhumanwarm40", "slots": "1" }, { "type": "armor", "name": "rhumanwleg40", "slots": "1" }, { "type": "armor", "name": "rhumanwfoot40", "slots": "1" }, { "type": "armor", "name": "rhumanwhead40", "slots": "1" },
+                    { "type": "armor", "name": "relfmbody40", "slots": "1" }, { "type": "armor", "name": "relfmarm40", "slots": "1" }, { "type": "armor", "name": "relfmleg40", "slots": "1" }, { "type": "armor", "name": "relfmfoot40", "slots": "1" }, { "type": "armor", "name": "relfmhead40", "slots": "1" },
+                    { "type": "armor", "name": "relfwbody40", "slots": "1" }, { "type": "armor", "name": "relfwarm40", "slots": "1" }, { "type": "armor", "name": "relfwleg40", "slots": "1" }, { "type": "armor", "name": "relfwfoot40", "slots": "1" }, { "type": "armor", "name": "relfwhead40", "slots": "1" },
+                    { "type": "armor", "name": "rcvergbody40", "slots": "1" }, { "type": "armor", "name": "rcvergarm40", "slots": "1" }, { "type": "armor", "name": "rcvergleg40", "slots": "1" }, { "type": "armor", "name": "rcvergfoot40", "slots": "1" }, { "type": "armor", "name": "rcverghead40", "slots": "1" },
+                    { "type": "armor", "name": "rmirinabody40", "slots": "1" }, { "type": "armor", "name": "rmirinaarm40", "slots": "1" }, { "type": "armor", "name": "rmirinaleg40", "slots": "1" }, { "type": "armor", "name": "rmirinafoot40", "slots": "1" }, { "type": "armor", "name": "rmirinahead40", "slots": "1" },
+                    { "type": "armor", "name": "renkidubody40", "slots": "1" }, { "type": "armor", "name": "renkiduarm40", "slots": "1" }, { "type": "armor", "name": "renkiduleg40", "slots": "1" }, { "type": "armor", "name": "renkidufoot40", "slots": "1" }, { "type": "armor", "name": "renkiduhead40", "slots": "1" },
+                    { "type": "armor", "name": "rkrolbody40", "slots": "1" }, { "type": "armor", "name": "rkrolarm40", "slots": "1" }, { "type": "armor", "name": "rkrolleg40", "slots": "1" }, { "type": "armor", "name": "rkrolfoot40", "slots": "1" }, { "type": "armor", "name": "rkrolhead40", "slots": "1" }
+                ]
+            }
+        },
+        {
+            "name": "slug1",
+            "nameRU": "Слизень",
+            "lvl": 1,
+            "img": "slug1.PNG",
+            "habitat": [{
+                    "location": "east-road",
+                    "coordinates": "B, C, D, E-10,11,12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "G, H, I-11,12,13",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "west-road",
+                    "coordinates": "L, M-8,9,10,11",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "сloudy-bile" }, { "type": "other", "name": "meat" }],
+                "medium": [{ "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "painkiller" }, { "type": "other", "name": "empty-bottle" }],
+                "hard": [{ "type": "weapon", "name": "wooden-club1", "slots": "0,2" }]
+            }
+        },
+        {
+            "name": "fly2",
+            "nameRU": "Зеленая муха",
+            "lvl": 2,
+            "img": "fly2.PNG",
+            "habitat": [{
+                    "location": "east-road",
+                    "coordinates": "B, C, D, E-10,11,12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "G, H, I-11,12,13",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "west-road",
+                    "coordinates": "L, M-8,9,10,11",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "сloudy-bile" }, { "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "meat" }],
+                "medium": [{ "type": "other", "name": "viscous-bile" }, { "type": "other", "name": "empty-bottle" }, { "type": "other", "name": "painkiller" }],
+                "hard": [{ "type": "other", "name": "pyroxene" }]
+            }
+        },
+        {
+            "name": "bat4",
+            "nameRU": "Плодовый нетопырь",
+            "lvl": 4,
+            "img": "bat4.PNG",
+            "habitat": [{
+                    "location": "east-road",
+                    "coordinates": "B, C, D, E-10,11,12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "G, H, I-11,12,13",
+                    "day": false,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "cracked-claw" }, { "type": "other", "name": "painkiller" }],
+                "medium": [{ "type": "other", "name": "bat-feathers" }, { "type": "other", "name": "replenishment-potion" }],
+                "hard": [{ "type": "armor", "name": "leather-helmet3", "slots": "0" }]
+            }
+        },
+        {
+            "name": "zombie4",
+            "nameRU": "Зомби",
+            "lvl": 4,
+            "img": "zombie4.PNG",
+            "habitat": [{
+                    "location": "east-road",
+                    "coordinates": "B, C, D, E-10,11,12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "west-road",
+                    "coordinates": "L, M-8,9,10,11",
+                    "day": false,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "wormy-meat" }, { "type": "other", "name": "meat" }, { "type": "other", "name": "replenishment-potion" }],
+                "medium": [{ "type": "other", "name": "offensive-bile" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "ant5",
+            "nameRU": "Муравей",
+            "lvl": 5,
+            "img": "ant5.PNG",
+            "habitat": [{
+                    "location": "north-road",
+                    "coordinates": "E, K, L, M-12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "west-road",
+                    "coordinates": "J-5,6,7,8",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "сloudy-bile" }, { "type": "other", "name": "viscous-bile" }, { "type": "other", "name": "painkiller" }],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "skeleton7",
+            "nameRU": "Скелет",
+            "lvl": 7,
+            "img": "skeleton7.PNG",
+            "habitat": [{
+                    "location": "east-road",
+                    "coordinates": "F, G, H-9,10,11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "E, F-10,11",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "west-road",
+                    "coordinates": "J-5,6",
+                    "day": false,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "rotting-bone" }, { "type": "other", "name": "dilapidated-bone" }, { "type": "other", "name": "moonlight-grass" }, { "type": "other", "name": "crushed-skull" }],
+                "medium": [{ "type": "other", "name": "replenishment-potion" }, { "type": "other", "name": "painkiller" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "fly7",
+            "nameRU": "Молодая мушка",
+            "lvl": 7,
+            "img": "fly7.PNG",
+            "habitat": [{
+                "location": "north-road",
+                "coordinates": "E, F-10,11",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "viscous-bile" }, { "type": "other", "name": "volatile-bile" }],
+                "medium": [{ "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "meat" }],
+                "hard": [{ "type": "armor", "name": "quilt-boots1", "slots": "0" }, { "type": "soul", "name": "hurry-soul" }]
+            }
+        },
+        {
+            "name": "slug8",
+            "nameRU": "Большой слизень",
+            "lvl": 8,
+            "img": "slug8.PNG",
+            "habitat": [{
+                    "location": "north-road",
+                    "coordinates": "E, F-9,10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "west-road",
+                    "coordinates": "L, M-8,9,10,11 / H-12,13",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "сloudy-bile" }, { "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "meat" }],
+                "medium": [{ "type": "other", "name": "pyroxene" }, { "type": "other", "name": "empty-bottle" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "snake8",
+            "nameRU": "Королевская змея",
+            "lvl": 8,
+            "img": "snake8.PNG",
+            "habitat": [{
+                "location": "north-road",
+                "coordinates": "K, L-11,12",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "small-fangs" }, { "type": "other", "name": "poisonous-grass" }],
+                "medium": [{ "type": "other", "name": "scratched-skin" }, { "type": "other", "name": "pyroxene-whelk" }],
+                "hard": [{ "type": "other", "name": "poison" }, { "type": "other", "name": "poisonlvl1" }]
+            }
+        },
+        {
+            "name": "maroder9",
+            "nameRU": "Мародер",
+            "lvl": 9,
+            "img": "maroder9.PNG",
+            "habitat": [{
+                "location": "west-road",
+                "coordinates": "I-14",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "painkiller" }],
+                "medium": [{ "type": "weapon", "name": "knife1", "slots": "0,1" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "wolf10",
+            "nameRU": "Койот",
+            "lvl": 10,
+            "img": "wolf10.PNG",
+            "habitat": [{
+                    "location": "west-road",
+                    "coordinates": "H-11,12,13",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "E, F-9,10 / K, L-8,9",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "F, G-5,6 / H, I-9,10",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "dirty-fur" }],
+                "medium": [{ "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "painkiller" }, { "type": "other", "name": "meat" }],
+                "hard": [{ "type": "armor", "name": "durable-vest7", "slots": "1" }, { "type": "soul", "name": "wolf-soul" }]
+            }
+        },
+        {
+            "name": "spider14",
+            "nameRU": "Паук птицеед",
+            "lvl": 14,
+            "img": "spider14.PNG",
+            "habitat": [{
+                    "location": "west-road",
+                    "coordinates": "E, F-9,10,11,12 / G-14,15",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "E-8 / K, L-8,9",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "H, I-5,6,7",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "сloudy-bile" }, { "type": "other", "name": "volatile-bile" }],
+                "medium": [{ "type": "other", "name": "poisonous-grass" }, { "type": "other", "name": "meat" }, { "type": "other", "name": "pyroxene-whelk" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "fly15",
+            "nameRU": "Гигантская муха",
+            "lvl": 15,
+            "img": "fly15.PNG",
+            "habitat": [{
+                    "location": "west-road",
+                    "coordinates": "E, F-10,11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "J, K-6,7",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "I, J-7",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "сloudy-bile" }, { "type": "other", "name": "offensive-bile" }],
+                "medium": [{ "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "pyroxene" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "tushkanchik16",
+            "nameRU": "Быстрый тушканчик",
+            "lvl": 16,
+            "img": "tushkanchik16.PNG",
+            "habitat": [{
+                    "location": "west-road",
+                    "coordinates": "L-11 / E-9,10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "L-7",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "D-11 / J-5,6",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "small-fangs" }, { "type": "other", "name": "broken-fang" }],
+                "medium": [{ "type": "other", "name": "hepatica" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "ant16",
+            "nameRU": "Страж",
+            "lvl": 16,
+            "img": "ant16.PNG",
+            "habitat": [{
+                "location": "west-road",
+                "coordinates": "H-3",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "сloudy-bile" }, { "type": "other", "name": "healing-root" }, { "type": "other", "name": "empty-bottle" }],
+                "medium": [{ "type": "other", "name": "sweet-bile" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "skeleton17",
+            "nameRU": "Скелет следопыт",
+            "lvl": 17,
+            "img": "skeleton17.PNG",
+            "habitat": [{
+                    "location": "west-road",
+                    "coordinates": "F, G-7,8,9,10,11",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "I-5,6,7,9,10",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "K,L-7,8,9,10",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "crushed-skull" }, { "type": "other", "name": "replenishment-potion" }, { "type": "other", "name": "rotting-bone" }],
+                "medium": [{ "type": "other", "name": "moonlight-grass" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "dikobraz17",
+            "nameRU": "Дикобраз",
+            "lvl": 17,
+            "img": "dikobraz17.PNG",
+            "habitat": [{
+                "location": "west-road",
+                "coordinates": "E, F, G-5,6,7",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "small-fangs" }, { "type": "other", "name": "dirty-fur" }, { "type": "other", "name": "ticked-fur" }],
+                "medium": [{ "type": "other", "name": "crush-red-pyroxene" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "kapibara18",
+            "nameRU": "Капибара",
+            "lvl": 18,
+            "img": "kapibara18.PNG",
+            "habitat": [{
+                "location": "west-road",
+                "coordinates": "E, F-9,10,11, F-12",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "dirty-fur" }, { "type": "other", "name": "ticked-fur" }, { "type": "other", "name": "pyroxene-whelk" }],
+                "medium": [{ "type": "other", "name": "small-fangs" }],
+                "hard": [{ "type": "armor", "name": "linen-tunic15", "slots": "2" }]
+            }
+        },
+        {
+            "name": "skeleton18",
+            "nameRU": "Скелет лучник",
+            "lvl": 18,
+            "img": "skeleton18.PNG",
+            "habitat": [{
+                    "location": "west-road",
+                    "coordinates": "F, G-4,5,6",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "I-5,6,7,9,10",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "K,L-7,8,9",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "nelstadt",
+                    "coordinates": "B, C, D-6,7,8,9, F-6",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "H-16",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "G, H-3,4,5,6",
+                    "day": false,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "rotting-bone" }, { "type": "other", "name": "crushed-skull" }, { "type": "other", "name": "dilapidated-bone" }, { "type": "other", "name": "сrushed-bone" }],
+                "medium": [{ "type": "other", "name": "replenishment-potion" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "wolf20",
+            "nameRU": "Шакал",
+            "lvl": 20,
+            "img": "wolf20.PNG",
+            "habitat": [{
+                    "location": "west-road",
+                    "coordinates": "E, F, G-3,4",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "H, I, J, K-3,4",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "M, N-7,8,9",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "meat" }, { "type": "other", "name": "dirty-fur" }, { "type": "other", "name": "little-dirty-fur" }],
+                "medium": [{ "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "painkiller" }],
+                "hard": [{ "type": "armor", "name": "regular-boots16", "slots": "1" }, { "type": "soul", "name": "wolf-soul" }]
+            }
+        },
+        {
+            "name": "spider31",
+            "nameRU": "Паук мясоед",
+            "lvl": 31,
+            "img": "spider31.PNG",
+            "habitat": [{
+                    "location": "west-road",
+                    "coordinates": "G-14,15",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "north-road",
+                    "coordinates": "E-8, M-9",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "I, J-5,6 / L, M-7,8 / J-9",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "volatile-bile" }, { "type": "other", "name": "pyroxene" }, { "type": "other", "name": "poisonous-grass" }],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "kapibara32",
+            "nameRU": "Огромная капибара",
+            "lvl": 32,
+            "img": "kapibara32.PNG",
+            "habitat": [{
+                "location": "west-road",
+                "coordinates": "F-12",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "cracked-skull" }],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "rat33",
+            "nameRU": "Крысолак секирщик",
+            "lvl": 33,
+            "img": "rat33.PNG",
+            "habitat": [{
+                    "location": "west-road",
+                    "coordinates": "D-5",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "F, G-4,5 / J-4 / H, I-12,13 / I-11",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "bloody-fur" }, { "type": "other", "name": "little-dirty-fur" }, { "type": "other", "name": "dirty-fur" }],
+                "medium": [{ "type": "other", "name": "poison-fang" }, { "type": "other", "name": "small-pyroxene" }, { "type": "other", "name": "injury" }],
+                "hard": [{ "type": "armor", "name": "clothes-resonance35", "slots": "0,1" }]
+            }
+        },
+        {
+            "name": "wolf44",
+            "nameRU": "Бродячий волк",
+            "lvl": 44,
+            "img": "wolf44.PNG",
+            "habitat": [{
+                    "location": "west-road",
+                    "coordinates": "E, F-6 H-3 I-4, 5",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "F, G-9,10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "nelstadt",
+                    "coordinates": "F, G-9,10",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "snake12",
+            "nameRU": "Огромная куфия",
+            "lvl": 12,
+            "img": "snake12.PNG",
+            "habitat": [{
+                "location": "north-road",
+                "coordinates": "F-11 / L-12 / M-12",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "small-fangs" }, { "type": "other", "name": "broken-fang" }, { "type": "other", "name": "poisonous-grass" }],
+                "medium": [{ "type": "other", "name": "antidot" }, { "type": "other", "name": "poisonlvl2" }, { "type": "other", "name": "poison" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "razboinik-shaman15",
+            "nameRU": "Разбойник шаман",
+            "lvl": 15,
+            "img": "razboinik-shaman15.PNG",
+            "habitat": [{
+                    "location": "north-road",
+                    "coordinates": "H-7",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "L-4",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "painkiller" }, { "type": "other", "name": "pyroxene" }, { "type": "other", "name": "pyroxene-whelk" }],
+                "medium": [{ "type": "other", "name": "poisonlvl1" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "razboinik-hunter17",
+            "nameRU": "Разбойник охотник",
+            "lvl": 17,
+            "img": "razboinik-hunter17.PNG",
+            "habitat": [{
+                    "location": "north-road",
+                    "coordinates": "H-7",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "L-4",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "painkiller" }, { "type": "other", "name": "pyroxene" }, { "type": "other", "name": "pyroxene-whelk" }],
+                "medium": [{ "type": "other", "name": "lightninglvl1" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "razboinik-vojak19",
+            "nameRU": "Разбойник вожак",
+            "lvl": 19,
+            "img": "razboinik-vojak19.PNG",
+            "habitat": [{
+                    "location": "north-road",
+                    "coordinates": "H-7",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "L-4",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "painkiller" }, { "type": "other", "name": "pyroxene" }, { "type": "other", "name": "pyroxene-whelk" }],
+                "medium": [{ "type": "other", "name": "icelvl1" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "chiko20",
+            "nameRU": "Чико",
+            "lvl": 20,
+            "img": "chiko20.PNG",
+            "habitat": [{
+                    "location": "west-road",
+                    "coordinates": "E, F-8,9",
+                    "day": true,
+                    "night": true
+                }, {
+                    "location": "north-road",
+                    "coordinates": "I-6, J-7",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "H, I-6",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "small-fangs" }, { "type": "other", "name": "empty-bottle" }],
+                "medium": [{ "type": "other", "name": "replenishment-potion" }, { "type": "other", "name": "hepatica" }],
+                "hard": [{ "type": "armor", "name": "crown5", "slots": "1" }]
+            }
+        },
+        {
+            "name": "yacher24",
+            "nameRU": "Ящер",
+            "lvl": 24,
+            "img": "yacher24.PNG",
+            "habitat": [{
+                    "location": "north-road",
+                    "coordinates": "I-9,10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "H-12,13 / I-12",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "krupni-yacher32",
+            "nameRU": "Крупный ящер",
+            "lvl": 32,
+            "img": "krupni-yacher32.PNG",
+            "habitat": [{
+                    "location": "north-road",
+                    "coordinates": "I-10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "I-12",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "slug20",
+            "nameRU": "Гигантский слизень",
+            "lvl": 20,
+            "img": "slug20.PNG",
+            "habitat": [{
+                    "location": "north-road",
+                    "coordinates": "E-10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "F-7",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "empty-bottle" }, { "type": "other", "name": "meat" }, { "type": "other", "name": "pyroxene" }],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "bat18",
+            "nameRU": "Огромный нетопырь",
+            "lvl": 18,
+            "img": "bat18.PNG",
+            "habitat": [{
+                    "location": "north-road",
+                    "coordinates": "I, J-5,6",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "K-10 / H, I, J-5,6,7,8",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "cracked-claw" }, { "type": "other", "name": "little-claw" }, { "type": "other", "name": "painkiller" }],
+                "medium": [{ "type": "other", "name": "replenishment-potion" }, { "type": "other", "name": "bat-feathers" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "bat26",
+            "nameRU": "Ночной нетопырь",
+            "lvl": 26,
+            "img": "bat26.PNG",
+            "habitat": [{
+                    "location": "north-road",
+                    "coordinates": "L-8",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "east-road",
+                    "coordinates": "J-7",
+                    "day": false,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "little-claw" }, { "type": "other", "name": "rounded-claw" }],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "zakl9",
+            "nameRU": "Заклинатель душ",
+            "lvl": 9,
+            "img": "zakl9.PNG",
+            "habitat": [{
+                "location": "east-road",
+                "coordinates": "G, H-9,10,11",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "replenishment-potion" }],
+                "medium": [{ "type": "other", "name": "poison" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "zrica19",
+            "nameRU": "Темная жрица",
+            "lvl": 19,
+            "img": "zrica19.PNG",
+            "habitat": [{
+                "location": "east-road",
+                "coordinates": "L, M-7,8",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "replenishment-potion" }, { "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "pyroxene" }],
+                "medium": [{ "type": "other", "name": "firelvl2" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "neshit19",
+            "nameRU": "Низкая нежить",
+            "lvl": 19,
+            "img": "neshit19.PNG",
+            "habitat": [{
+                "location": "east-road",
+                "coordinates": "H-13",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "wormy-meat" }, { "type": "other", "name": "rotten-meat" }, { "type": "other", "name": "saved-soul" }],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "skeleton24",
+            "nameRU": "Скелет воин",
+            "lvl": 24,
+            "img": "skeleton24.PNG",
+            "habitat": [{
+                    "location": "east-road",
+                    "coordinates": "L-4 / M-4,5",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "H,I-8",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "nelstadt",
+                    "coordinates": "I-9",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "rotting-bone" }, { "type": "other", "name": "сrushed-bone" }, { "type": "other", "name": "old-bone" }],
+                "medium": [{ "type": "other", "name": "replenishment-potion" }],
+                "hard": [{ "type": "other", "name": "darklvl1" }]
+            }
+        },
+        {
+            "name": "demon39",
+            "nameRU": "Гигантский демон",
+            "lvl": 39,
+            "img": "demon39.PNG",
+            "habitat": [{
+                    "location": "east-road",
+                    "coordinates": "G-3",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "nelstadt",
+                    "coordinates": "H, I-7,8,9",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "sharpened-claw" }],
+                "medium": [{ "type": "other", "name": "sharp-claw" }, { "type": "other", "name": "small-yellow-pyroxene" }, { "type": "other", "name": "injury" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "demon28",
+            "nameRU": "Малый демон",
+            "lvl": 28,
+            "img": "demon28.PNG",
+            "habitat": [{
+                    "location": "east-road",
+                    "coordinates": "G-3",
+                    "day": true,
+                    "night": false
+                },
+                {
+                    "location": "nelstadt",
+                    "coordinates": "G, H-10",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "sharpened-claw" }, { "type": "other", "name": "little-claw" }],
+                "medium": [{ "type": "other", "name": "crush-yellow-pyroxene" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "skeleton34",
+            "nameRU": "Скелет мечник",
+            "lvl": 34,
+            "img": "skeleton34.PNG",
+            "habitat": [{
+                "location": "east-road",
+                "coordinates": "М-5",
+                "day": false,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "strong-bone" }, { "type": "other", "name": "thick-bone" }, { "type": "other", "name": "suffering-soul" }],
+                "medium": [{ "type": "other", "name": "mana90" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "ant20",
+            "nameRU": "Муравей рабочий",
+            "lvl": 20,
+            "img": "ant20.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "B, C, D-6,7,8,9",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "I-2,3, J-3 / I-5,6, J-5, J-7",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "viscous-bile" }, { "type": "other", "name": "acid-bile" }, { "type": "other", "name": "small-pyroxene" }, { "type": "other", "name": "empty-bottle" }],
+                "medium": [{ "type": "other", "name": "pyroxene" }, { "type": "other", "name": "firelvl1" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "slug22",
+            "nameRU": "Падальщик",
+            "lvl": 22,
+            "img": "slug22.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "B, C, D-6,7,8,9",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "H, I-15",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "J, K-2",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "сloudy-bile" }, { "type": "other", "name": "acid-bile" }, { "type": "other", "name": "meat" }],
+                "medium": [{ "type": "other", "name": "gold-pyroxene" }, { "type": "other", "name": "painkiller" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "wellfeed-ghost24",
+            "nameRU": "Сытый душелов",
+            "lvl": 24,
+            "img": "wellfeed-ghost24.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "D, E-7,8,9",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "G, H-4,5",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "helpless-soul" }, { "type": "other", "name": "saved-soul" }],
+                "medium": [{ "type": "other", "name": "red-pyroxene" }, { "type": "other", "name": "fire-root" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "wolf26",
+            "nameRU": "Полосатый волк",
+            "lvl": 26,
+            "img": "wolf26.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "D, E-8,9,10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "F, G-6 / I, J-10,12",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "bloody-fur" }, { "type": "other", "name": "dirty-fur" }],
+                "medium": [{ "type": "other", "name": "big-claw" }, { "type": "bijouterie", "name": "magic-earring20" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "fly-snake28",
+            "nameRU": "Летучий змей",
+            "lvl": 28,
+            "img": "fly-snake28.PNG",
+            "habitat": [{
+                "location": "nelstadt",
+                "coordinates": "D, E-7,8",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "multicolored-bile" }, { "type": "other", "name": "pyroxene" }, { "type": "other", "name": "fresh-meat" }],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "snake33",
+            "nameRU": "Гюрза",
+            "lvl": 33,
+            "img": "snake33.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "H-8,9,10 / L-10,11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "G, H-9",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "sharpened-fang" }, { "type": "other", "name": "sharp-fang" }, { "type": "other", "name": "curved-fang" }],
+                "medium": [{ "type": "other", "name": "poisonous-grass" }, { "type": "other", "name": "poison" }, { "type": "other", "name": "painkiller" }, { "type": "other", "name": "lightlvl1" }],
+                "hard": [{ "type": "armor", "name": "killer-armor35", "slots": "0,1" }]
+            }
+        },
+        {
+            "name": "skeleton35",
+            "nameRU": "Скелет боец",
+            "lvl": 35,
+            "img": "skeleton35.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "I, J-8",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "H-6",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "I-9",
+                    "day": false,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "thick-bone" }, { "type": "other", "name": "strong-bone" }, { "type": "other", "name": "dried-bone" }],
+                "medium": [{ "type": "other", "name": "suffering-soul" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "human35",
+            "nameRU": "Головорез солдат",
+            "lvl": 35,
+            "img": "human35.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "I-8",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "H-8",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pyroxene" }, { "type": "other", "name": "pyroxene-whelk" }],
+                "medium": [{ "type": "other", "name": "injury" }, { "type": "other", "name": "antidot" }],
+                "hard": [{ "type": "other", "name": "icelvl1" }, { "type": "armor", "name": "defender-shield35", "slots": "0,1" }]
+            }
+        },
+        {
+            "name": "human36",
+            "nameRU": "Головорез охотник",
+            "lvl": 36,
+            "img": "human36.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "I-8",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "H-8",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pyroxene" }, { "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "trap" }],
+                "medium": [{ "type": "other", "name": "injury" }],
+                "hard": [{ "type": "other", "name": "lightninglvl1" }, { "type": "armor", "name": "defender-shield35", "slots": "0,1" }]
+            }
+        },
+        {
+            "name": "human37",
+            "nameRU": "Головорез шаман",
+            "lvl": 37,
+            "img": "human37.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "I-8",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "H-8",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pyroxene" }, { "type": "other", "name": "pyroxene-whelk" }, { "type": "other", "name": "holy-water" }],
+                "medium": [{ "type": "other", "name": "injury" }],
+                "hard": [{ "type": "other", "name": "poisonlvl1" }]
+            }
+        },
+        {
+            "name": "dingo38",
+            "nameRU": "Динго",
+            "lvl": 38,
+            "img": "dingo38.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "H, I-5,6,7 / K, L-9,10,11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "H-4,5",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "J-10,11",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "bloody-fur" }, { "type": "other", "name": "ticked-fur" }, { "type": "other", "name": "little-dirty-fur" }, { "type": "other", "name": "meat" }, { "type": "other", "name": "painkiller" }],
+                "medium": [{ "type": "other", "name": "pyroxene" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "hungry-ghost38",
+            "nameRU": "Голодный душелов",
+            "lvl": 38,
+            "img": "hungry-ghost38.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "H-5",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "???",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "H, I, J-5,6",
+                    "day": false,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "suffering-soul" }, { "type": "other", "name": "wandering-soul" }, { "type": "other", "name": "saved-soul" }],
+                "medium": [{ "type": "other", "name": "fire-root" }, { "type": "other", "name": "replenishment-potion" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "big-ghost60",
+            "nameRU": "Великий душелов",
+            "lvl": 60,
+            "img": "big-ghost60.PNG",
+            "habitat": [{
+                "location": "nelstadt",
+                "coordinates": "H-5",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": [{ "type": "soul", "name": "lightning-soul" }, { "type": "soul", "name": "stronghold-soul" }]
+            }
+        },
+        {
+            "name": "bat39",
+            "nameRU": "Носферату",
+            "lvl": 39,
+            "img": "bat39.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "I-9",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "G-8,9 / H-9",
+                    "day": false,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "cracked-claw" }, { "type": "other", "name": "broken-fang" }, { "type": "other", "name": "sharpened-claw" }],
+                "medium": [{ "type": "other", "name": "injury" }, { "type": "other", "name": "replenishment-potion-60" }, { "type": "other", "name": "dark-pyroxene" }, { "type": "other", "name": "bat-feathers" }],
+                "hard": [{ "type": "armor", "name": "clothes-resonance35", "slots": "0,1" }]
+            }
+        },
+        {
+            "name": "bone-warrior42",
+            "nameRU": "Костяной воин",
+            "lvl": 42,
+            "img": "bone-warrior42.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "K, L, M-9,10,11, K-6",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "H-6",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "I, J-5,6",
+                    "day": false,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "dried-bone" }, { "type": "other", "name": "big-bone" }, { "type": "other", "name": "strong-bone" }],
+                "medium": [{ "type": "other", "name": "moonlight-grass" }, { "type": "other", "name": "red-pyroxene" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "bone-warrior60",
+            "nameRU": "Костяной кузнец",
+            "lvl": 60,
+            "img": "bone-warrior60.PNG",
+            "habitat": [{
+                "location": "nelstadt",
+                "coordinates": "K-10",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "demon53",
+            "nameRU": "Гигантский бес",
+            "lvl": 53,
+            "img": "demon53.PNG",
+            "habitat": [{
+                "location": "nelstadt",
+                "coordinates": "J, K-7,8,9,10,11,12",
+                "day": false,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": [{ "type": "armor", "name": "dark-crown35", "slots": "1" }]
+            }
+        },
+        {
+            "name": "fly-snake46",
+            "nameRU": "Огненный змей",
+            "lvl": 46,
+            "img": "fly-snake46.PNG",
+            "habitat": [{
+                "location": "nelstadt",
+                "coordinates": "D, E-7,8,9",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "ant40rb",
+            "nameRU": "Муравей защитник",
+            "lvl": 40,
+            "img": "ant40rb.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "D, E-7,8,9",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "J-5",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "sweet-bile" }, { "type": "other", "name": "acid-bile" }, { "type": "other", "name": "volatile-bile" }],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "bat20",
+            "nameRU": "Кровавый нетопырь",
+            "lvl": 20,
+            "img": "bat20.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "C-9",
+                    "day": false,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "H, I-15",
+                    "day": false,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "jagged-claw" }, { "type": "other", "name": "little-claw" }, { "type": "other", "name": "big-claw" }, { "type": "other", "name": "replenishment-potion" }],
+                "medium": [{ "type": "other", "name": "painkiller" }, { "type": "other", "name": "bat-feathers" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "wolf60",
+            "nameRU": "Лесной волк",
+            "lvl": 60,
+            "img": "wolf60.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "L-10",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "H-5",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "J-11",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": [{ "type": "weapon", "name": "moonlight-bow40", "slots": "2" }, { "type": "soul", "name": "sleepless-soul" }]
+            }
+        },
+        {
+            "name": "raptor66",
+            "nameRU": "Василиск",
+            "lvl": 66,
+            "img": "raptor66.PNG",
+            "habitat": [{
+                "location": "gorda",
+                "coordinates": "H-6",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "snake56",
+            "nameRU": "Гигантская гадюка",
+            "lvl": 56,
+            "img": "snake56.PNG",
+            "habitat": [{
+                "location": "gorda",
+                "coordinates": "H-6",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "yacher36",
+            "nameRU": "Панголин",
+            "lvl": 36,
+            "img": "yacher36.PNG",
+            "habitat": [{
+                "location": "gorda",
+                "coordinates": "H-6",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "raptor50",
+            "nameRU": "Гигантский раптор",
+            "lvl": 50,
+            "img": "raptor50.PNG",
+            "habitat": [{
+                "location": "gorda",
+                "coordinates": "H-13, J-10, I-4",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "spider35",
+            "nameRU": "Гигантский паук",
+            "lvl": 35,
+            "img": "spider35.PNG",
+            "habitat": [{
+                    "location": "gorda",
+                    "coordinates": "G-6,7",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "G, H-11,12",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "volatile-bile" }, { "type": "other", "name": "sweet-bile" }, { "type": "other", "name": "pyroxene" }],
+                "medium": [{ "type": "other", "name": "poisonous-grass" }, { "type": "other", "name": "empty-bottle" }, { "type": "other", "name": "poisonlvl1" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "snake40",
+            "nameRU": "Золотистый питон",
+            "lvl": 40,
+            "img": "snake40.PNG",
+            "habitat": [{
+                "location": "gorda",
+                "coordinates": "H, I-6",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "snake37",
+            "nameRU": "Аспид",
+            "lvl": 37,
+            "img": "snake37.PNG",
+            "habitat": [{
+                "location": "gorda",
+                "coordinates": "G-8",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "raptor30",
+            "nameRU": "Птерозавр",
+            "lvl": 30,
+            "img": "raptor30.PNG",
+            "habitat": [{
+                    "location": "gorda",
+                    "coordinates": "I,J-10,12",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "H, I-9",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "cracked-claw" }, { "type": "other", "name": "rounded-claw" }, { "type": "other", "name": "curved-claw" }],
+                "medium": [{ "type": "other", "name": "small-red-pyroxene" }, { "type": "other", "name": "crush-red-pyroxene" }, { "type": "other", "name": "antidot" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "cverg33",
+            "nameRU": "Грабитель",
+            "lvl": 33,
+            "img": "cverg33.PNG",
+            "habitat": [{
+                "location": "gorda",
+                "coordinates": "J-9",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "cverg39",
+            "nameRU": "Грабитель вожак",
+            "lvl": 39,
+            "img": "cverg39.PNG",
+            "habitat": [{
+                "location": "gorda",
+                "coordinates": "J-9",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "tree46",
+            "nameRU": "Дендроид",
+            "lvl": 46,
+            "img": "tree46.PNG",
+            "habitat": [{
+                "location": "gorda",
+                "coordinates": "I-10,11",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": [{ "type": "other", "name": "jour-hammer" }]
+            }
+        },
+        {
+            "name": "tree50",
+            "nameRU": "Древний дендроид",
+            "lvl": 50,
+            "img": "tree50.PNG",
+            "habitat": [{
+                "location": "gorda",
+                "coordinates": "I-10,11",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "spider28",
+            "nameRU": "Огненный паук",
+            "lvl": 28,
+            "img": "spider28.PNG",
+            "habitat": [{
+                    "location": "gorda",
+                    "coordinates": "I-10,11 / J-11",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "G, H-7",
+                    "day": true,
+                    "night": false
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "volatile-bile" }, { "type": "other", "name": "сloudy-bile" }, { "type": "other", "name": "multicolored-bile" }],
+                "medium": [{ "type": "other", "name": "sweet-bile" }, { "type": "other", "name": "poisonous-grass" }, { "type": "other", "name": "poisonlvl1" }],
+                "hard": [{ "type": "soul", "name": "fire-soul" }]
+            }
+        },
+        {
+            "name": "spider22",
+            "nameRU": "Паук ткач",
+            "lvl": 22,
+            "img": "spider22.PNG",
+            "habitat": [{
+                    "location": "gorda",
+                    "coordinates": "I,J-13,14",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "I-2,3",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [{ "type": "other", "name": "viscous-bile" }, { "type": "other", "name": "sweet-bile" }, { "type": "other", "name": "сloudy-bile" }, { "type": "other", "name": "poisonous-grass" }],
+                "medium": [],
+                "hard": [{ "type": "other", "name": "poison" }]
+            }
+        },
+        {
+            "name": "mulakshi32",
+            "nameRU": "Мулакши",
+            "lvl": 32,
+            "img": "mulakshi32.PNG",
+            "habitat": [{
+                "location": "himurartu",
+                "coordinates": "G, H-10,11",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "bloody-fur" }],
+                "medium": [{ "type": "other", "name": "ticked-fur" }, { "type": "other", "name": "healing-root" }, { "type": "other", "name": "little-claw" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "mulakshi53",
+            "nameRU": "Гигантская крыса",
+            "lvl": 53,
+            "img": "mulakshi53.PNG",
+            "habitat": [{
+                "location": "himurartu",
+                "coordinates": "G, H-10,11",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "behema67",
+            "nameRU": "Бехема",
+            "lvl": 67,
+            "img": "behema67.PNG",
+            "habitat": [{
+                "location": "himurartu",
+                "coordinates": "G, H-10,11",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "rat42",
+            "nameRU": "Крысолак воин",
+            "lvl": 42,
+            "img": "rat42.PNG",
+            "habitat": [{
+                "location": "himurartu",
+                "coordinates": "J-4 / I-11",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "hard-fur" }, { "type": "other", "name": "bloody-fur" }],
+                "medium": [{ "type": "other", "name": "injury" }, { "type": "other", "name": "gold-pyroxene" }],
+                "hard": [{ "type": "armor", "name": "clothes-resonance35", "slots": "0,1" }]
+            }
+        },
+        {
+            "name": "enkidu40",
+            "nameRU": "Головорез вожак",
+            "lvl": 40,
+            "img": "enkidu40.PNG",
+            "habitat": [{
+                "location": "himurartu",
+                "coordinates": "H-8",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "injury" }, { "type": "other", "name": "small-pyroxene" }, { "type": "other", "name": "pyroxene" }],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "ant60",
+            "nameRU": "Муравей патрульный",
+            "lvl": 60,
+            "img": "ant60.PNG",
+            "habitat": [{
+                "location": "himurartu",
+                "coordinates": "I-6",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "ant50",
+            "nameRU": "Муравей убийца",
+            "lvl": 50,
+            "img": "ant50.PNG",
+            "habitat": [{
+                "location": "himurartu",
+                "coordinates": "J,H,I-5,6",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "acid-bile" }, { "type": "other", "name": "sweet-bile" }, { "type": "other", "name": "volatile-bile" }, { "type": "other", "name": "empty-bottle" }],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "branic48",
+            "nameRU": "Браниц",
+            "lvl": 48,
+            "img": "branic48.PNG",
+            "habitat": [{
+                "location": "nelstadt",
+                "coordinates": "E-9 / F-10",
+                "day": false,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "ogr50",
+            "nameRU": "Огр",
+            "lvl": 50,
+            "img": "ogr50.PNG",
+            "habitat": [{
+                "location": "nelstadt",
+                "coordinates": "C-8, K-10, D-9, F-5,6, J-7",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "slug55",
+            "nameRU": "Великий слизень",
+            "lvl": 55,
+            "img": "slug55.PNG",
+            "habitat": [{
+                    "location": "nelstadt",
+                    "coordinates": "C, F-7 / O-13",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "gorda",
+                    "coordinates": "I-3,15",
+                    "day": true,
+                    "night": true
+                },
+                {
+                    "location": "himurartu",
+                    "coordinates": "I-8 / H-14",
+                    "day": true,
+                    "night": true
+                }
+            ],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "isp55",
+            "nameRU": "Каменный голем",
+            "lvl": 55,
+            "img": "isp55.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "H-11",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "muldian-medal" }],
+                "medium": [],
+                "hard": [{ "type": "armor", "name": "defender-shield35", "slots": "1" }]
+            }
+        },
+        {
+            "name": "spider63",
+            "nameRU": "Большой паук",
+            "lvl": 63,
+            "img": "spider63.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "K-11",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "spider62",
+            "nameRU": "Белый паук",
+            "lvl": 62,
+            "img": "spider62.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "L-12",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "viverna61",
+            "nameRU": "Виверна",
+            "lvl": 61,
+            "img": "viverna61.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "K-12",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "snake60",
+            "nameRU": "Пещерная змея",
+            "lvl": 60,
+            "img": "snake60.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "J-14",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "crush-yellow-pyroxene" }],
+                "medium": [{ "type": "other", "name": "painkiller" }, { "type": "other", "name": "poisonous-grass" }],
+                "hard": []
+            }
+        },
+        {
+            "name": "komodo51",
+            "nameRU": "Комодо",
+            "lvl": 51,
+            "img": "komodo51.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "I-14",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": [{ "type": "soul", "name": "severe-soul" }]
+            }
+        },
+        {
+            "name": "snake48",
+            "nameRU": "Гигантский питон",
+            "lvl": 48,
+            "img": "snake48.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "H-13",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "poison-fang" }, { "type": "other", "name": "huge-fang" }],
+                "medium": [{ "type": "other", "name": "poisonous-grass" }, { "type": "other", "name": "poison" }, { "type": "other", "name": "lightlvl2" }],
+                "hard": [{ "type": "soul", "name": "strong-soul" }]
+            }
+        },
+        {
+            "name": "snake45",
+            "nameRU": "Кошачья змея",
+            "lvl": 45,
+            "img": "snake45.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "H-13",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "isp-green55",
+            "nameRU": "Страж леса",
+            "lvl": 55,
+            "img": "isp-green55.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "H-11",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": [{ "type": "soul", "name": "defend-soul" }]
+            }
+        },
+        {
+            "name": "skeleton51",
+            "nameRU": "Скелет стражник",
+            "lvl": 51,
+            "img": "skeleton51.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "G-14",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": [{ "type": "soul", "name": "knight-soul" }]
+            }
+        },
+        {
+            "name": "ant51",
+            "nameRU": "Термит",
+            "lvl": 51,
+            "img": "ant51.PNG",
+            "habitat": [{
+                "location": "roscha",
+                "coordinates": "G-12",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [],
+                "medium": [],
+                "hard": []
+            }
+        },
+        {
+            "name": "ghost51",
+            "nameRU": "Призрак",
+            "lvl": 51,
+            "img": "ghost51.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "D-13 / E-12,13,14 / G-7 / H-7 / I-11 / L-4,5 / M-5",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }],
+                "medium": [{ "type": "other", "name": "muldian-medal" }],
+                "hard": [{ "type": "soul", "name": "thorny-soul" }, { "type": "soul", "name": "riddle-soul" }, { "type": "soul", "name": "dawning-soul" }]
+            }
+        },
+        {
+            "name": "ghost53",
+            "nameRU": "Призрачный боец",
+            "lvl": 53,
+            "img": "ghost53.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "D-13 / E-12,13,14 / G-7 / H-7 / I-11 / L-4,5 / M-5",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }],
+                "medium": [{ "type": "other", "name": "muldian-medal" }],
+                "hard": [{ "type": "soul", "name": "riddle-soul" }]
+            }
+        },
+        {
+            "name": "ghost-kop55",
+            "nameRU": "Призрак копейщика",
+            "lvl": 55,
+            "img": "ghost-kop55.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "D-13 / E-12,13,14 / G-7 / H-7 / I-11 / L-4,5 / M-5",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }],
+                "medium": [{ "type": "other", "name": "muldian-medal" }],
+                "hard": [{ "type": "soul", "name": "warrior-soul" }]
+            }
+        },
+        {
+            "name": "ghost57",
+            "nameRU": "Темный воин",
+            "lvl": 57,
+            "img": "ghost57.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "D-13 / E-12,13,14 / G-7 / H-7 / I-11 / L-4,5 / M-5",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }],
+                "medium": [{ "type": "other", "name": "muldian-medal" }],
+                "hard": [{ "type": "soul", "name": "turtle-soul" }, { "type": "soul", "name": "sage-soul" }, { "type": "soul", "name": "ice-soul" }]
+            }
+        },
+        {
+            "name": "gilia55",
+            "nameRU": "Жестокий палач",
+            "lvl": 55,
+            "img": "gilia55.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "D-13 / E-12,13,14 / G-7 / H-7 / I-11 / L-4,5 / M-5",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "pure-soul" }],
+                "medium": [{ "type": "other", "name": "muldian-medal" }],
+                "hard": [{ "type": "soul", "name": "turtle-soul" }]
+            }
+        },
+        {
+            "name": "hell-demon65",
+            "nameRU": "Адская горгулья",
+            "lvl": 65,
+            "img": "hell-demon65.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "N-4",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "muldian-medal" }],
+                "medium": [],
+                "hard": [{ "type": "weapon", "name": "moonlight-wand21", "slots": "3" }, { "type": "soul", "name": "wish-soul" }, { "type": "soul", "name": "mighty-soul" }]
+            }
+        },
+        {
+            "name": "cerber60",
+            "nameRU": "Цербер",
+            "lvl": 60,
+            "img": "cerber60.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "I-7",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "muldian-medal" }],
+                "medium": [],
+                "hard": [{ "type": "other", "name": "glory-orden" }, { "type": "soul", "name": "careful-soul" }, { "type": "armor", "name": "iron-leggings35", "slots": "3" }]
+            }
+        },
+        {
+            "name": "berserk63",
+            "nameRU": "Берсерк",
+            "lvl": 63,
+            "img": "berserk63.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "I-12",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "muldian-medal" }],
+                "medium": [{ "type": "other", "name": "rainbow-pyroxene" }],
+                "hard": [{ "type": "other", "name": "hero-charm" }, { "type": "soul", "name": "high-soul" }, { "type": "soul", "name": "beast-soul" }, { "type": "bijouterie", "name": "belt30", "slots": "3" }]
+            }
+        },
+        {
+            "name": "demon67",
+            "nameRU": "Архидемон",
+            "lvl": 67,
+            "img": "demon67.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "G-7",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "muldian-medal" }],
+                "medium": [],
+                "hard": [{ "type": "soul", "name": "spell-soul" }, { "type": "soul", "name": "eagle-soul" }, { "type": "weapon", "name": "sage-staff21", "slots": "3" }, { "type": "armor", "name": "eclipce45", "slots": "1" }]
+            }
+        },
+        {
+            "name": "skeleton62",
+            "nameRU": "Храмовник",
+            "lvl": 62,
+            "img": "skeleton62.PNG",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "I-11, N-4",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "muldian-medal" }],
+                "medium": [{ "type": "other", "name": "rainbow-pyroxene" }],
+                "hard": [{ "type": "other", "name": "hero-charm" }, { "type": "soul", "name": "knight-soul" }]
+            }
+        },
+        {
+            "name": "isp68",
+            "nameRU": "Исполин",
+            "lvl": 68,
+            "img": "no-img.jpg",
+            "habitat": [{
+                "location": "muldian",
+                "coordinates": "F-7, N-3",
+                "day": true,
+                "night": true
+            }],
+            "drop": {
+                "easy": [{ "type": "other", "name": "muldian-medal" }],
+                "medium": [{ "type": "other", "name": "rainbow-pyroxene" }],
+                "hard": [{ "type": "other", "name": "hero-charm" }, { "type": "armor", "name": "knightrune-shield45", "slots": "1" }, { "type": "soul", "name": "knowledge-soul" }, { "type": "soul", "name": "potion-soul" }]
+            }
+        }
+    ]
+}

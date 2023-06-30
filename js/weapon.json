@@ -1,0 +1,878 @@
+{
+    "weapon": [{
+            "name": "knuckle3",
+            "nameRU": "Кастет",
+            "lvl": 3,
+            "type": "fighting",
+            "drop": [{ "name": "snake6", "slot": "1" }, { "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "short-sword1",
+            "nameRU": "Короткий меч",
+            "lvl": 3,
+            "type": "one-hand-sword",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "heavy-sword7",
+            "nameRU": "Тяжелый меч",
+            "lvl": 7,
+            "type": "one-hand-sword",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "rapier14",
+            "nameRU": "Рапира",
+            "lvl": 14,
+            "type": "one-hand-sword",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "double-strike-sword4",
+            "nameRU": "Меч двойного удара",
+            "lvl": 4,
+            "type": "two-hand-sword",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "horse-sword16",
+            "nameRU": "Меч конебой",
+            "lvl": 16,
+            "type": "two-hand-sword",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "ax3",
+            "nameRU": "Топор",
+            "lvl": 3,
+            "type": "one-hand-ax",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "hand-ax16",
+            "nameRU": "Ручной топор",
+            "lvl": 16,
+            "type": "one-hand-ax",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "battle-scythe7",
+            "nameRU": "Боевая коса",
+            "lvl": 7,
+            "type": "two-hand-ax",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "executioner-ax18",
+            "nameRU": "Топор палача",
+            "lvl": 18,
+            "type": "two-hand-ax",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "wooden-club1",
+            "nameRU": "Деревянная палица",
+            "lvl": 1,
+            "type": "one-hand-blunt",
+            "drop": [{ "name": "slug1", "slot": "0,2" }, { "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "club6",
+            "nameRU": "Палица",
+            "lvl": 6,
+            "type": "one-hand-blunt",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "scepter12",
+            "nameRU": "Скипетр",
+            "lvl": 12,
+            "type": "one-hand-blunt",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "wooden-dze5",
+            "nameRU": "Деревянный дзё",
+            "lvl": 5,
+            "type": "two-hand-blunt",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "metal-mace25",
+            "nameRU": "Металлическая булава",
+            "lvl": 25,
+            "type": "two-hand-blunt",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }, { "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "wooden-spear5",
+            "nameRU": "Деревянное копье",
+            "lvl": 5,
+            "type": "one-hand-spear",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "tournament-spear19",
+            "nameRU": "Турнирное копье",
+            "lvl": 19,
+            "type": "one-hand-spear",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "soldier-lance3",
+            "nameRU": "Солдатская пика",
+            "lvl": 3,
+            "type": "two-hand-spear",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "trident9",
+            "nameRU": "Трезубец",
+            "lvl": 9,
+            "type": "two-hand-spear",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "roccob-halberd18",
+            "nameRU": "Роккобская алебарда",
+            "lvl": 18,
+            "type": "two-hand-spear",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "tekko20",
+            "nameRU": "Тэкко",
+            "lvl": 20,
+            "type": "fighting",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "knife1",
+            "nameRU": "Нож",
+            "lvl": 1,
+            "type": "dagger",
+            "drop": [{ "name": "maroder9", "slot": "0" }, { "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "assassin-dagger6",
+            "nameRU": "Кинжал убийцы",
+            "lvl": 6,
+            "type": "dagger",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "stylet14",
+            "nameRU": "Стилет",
+            "lvl": 14,
+            "type": "dagger",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "bow4",
+            "nameRU": "Лук",
+            "lvl": 4,
+            "type": "bow",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "short-bow14",
+            "nameRU": "Короткий лук",
+            "lvl": 14,
+            "type": "bow",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "crossbow10",
+            "nameRU": "Арбалет",
+            "lvl": 10,
+            "type": "crossbow",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "light-crossbow16",
+            "nameRU": "Легкий арбалет",
+            "lvl": 16,
+            "type": "crossbow",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "magic-wand1",
+            "nameRU": "Волшебный жезл",
+            "lvl": 1,
+            "type": "one-hand-cane",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "wand-magical-distortion5",
+            "nameRU": "Жезл магического искажения",
+            "lvl": 5,
+            "type": "one-hand-cane",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "whirlpool-wand17",
+            "nameRU": "Жезл водоворотов",
+            "lvl": 17,
+            "type": "one-hand-cane",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "mysterious-staff6",
+            "nameRU": "Таинственный посох",
+            "lvl": 6,
+            "type": "two-hand-cane",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "red-crystal-staff12",
+            "nameRU": "Посох с красным кристаллом",
+            "lvl": 12,
+            "type": "two-hand-cane",
+            "drop": [{ "name": "yalumi", "slot": "0" }, { "name": "galo", "slot": "0" }, { "name": "lu", "slot": "0" }]
+        },
+        {
+            "name": "long-knife27",
+            "nameRU": "Длинный нож",
+            "lvl": 27,
+            "type": "dagger",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "stalker-knife21",
+            "nameRU": "Нож ловчего",
+            "lvl": 21,
+            "type": "dagger",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "long-sword20",
+            "nameRU": "Длинный меч",
+            "lvl": 20,
+            "type": "one-hand-sword",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "wide-sword26",
+            "nameRU": "Широкий меч",
+            "lvl": 26,
+            "type": "one-hand-sword",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "skimitar30",
+            "nameRU": "Скимитар",
+            "lvl": 30,
+            "type": "one-hand-sword",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "flaming-blade22",
+            "nameRU": "Пламенный клинок",
+            "lvl": 22,
+            "type": "two-hand-sword",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "balance-sword31",
+            "nameRU": "Меч равновесия",
+            "lvl": 31,
+            "type": "two-hand-sword",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "war-ax24",
+            "nameRU": "Топор войны",
+            "lvl": 24,
+            "type": "one-hand-ax",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "cruel-ax23",
+            "nameRU": "Жестокий топор",
+            "lvl": 23,
+            "type": "two-hand-ax",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "heavenly-halberd29",
+            "nameRU": "Небесная алебарда",
+            "lvl": 29,
+            "type": "two-hand-ax",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "powerful-mace28",
+            "nameRU": "Мощная булава",
+            "lvl": 28,
+            "type": "one-hand-blunt",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "long-peak27",
+            "nameRU": "Длинная пика",
+            "lvl": 27,
+            "type": "one-hand-spear",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "reinforced-spear35",
+            "nameRU": "Усиленное копье",
+            "lvl": 35,
+            "type": "one-hand-spear",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "icy-peak35",
+            "nameRU": "Ледяная пика",
+            "lvl": 35,
+            "type": "one-hand-spear",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "executioner27",
+            "nameRU": "Палач",
+            "lvl": 27,
+            "type": "two-hand-spear",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "long-bow26",
+            "nameRU": "Длинный лук",
+            "lvl": 26,
+            "type": "bow",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "hunter-bow34",
+            "nameRU": "Охотничий лук",
+            "lvl": 34,
+            "type": "bow",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "sunshine-bow29",
+            "nameRU": "Лук солнечного света",
+            "lvl": 29,
+            "type": "bow",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "moonlight-wand21",
+            "nameRU": "Жезл лунного света",
+            "lvl": 21,
+            "type": "one-hand-cane",
+            "drop": [{ "name": "hell-demon65", "slot": "3" }, { "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "sage-staff21",
+            "nameRU": "Посох мудреца",
+            "lvl": 21,
+            "type": "two-hand-cane",
+            "drop": [{ "name": "demon67", "slot": "3" }, { "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "saber40",
+            "nameRU": "Сабля",
+            "lvl": 40,
+            "type": "one-hand-sword",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "big-two-hand-sword40",
+            "nameRU": "Большой двуручный меч",
+            "lvl": 40,
+            "type": "two-hand-sword",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "mithril-tecubo40",
+            "nameRU": "Мифриловый тэцубо",
+            "lvl": 40,
+            "type": "two-hand-blunt",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "icy-spear40",
+            "nameRU": "Ледяное копье",
+            "lvl": 40,
+            "type": "two-hand-spear",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "clawed-paw40",
+            "nameRU": "Когтистая лапа",
+            "lvl": 40,
+            "type": "fighting",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "moonlight-bow40",
+            "nameRU": "Лук лунного света",
+            "lvl": 40,
+            "type": "bow",
+            "drop": [{ "name": "wolf60", "slot": "2" }, { "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "star-wand40",
+            "nameRU": "Звездная палочка",
+            "lvl": 40,
+            "type": "one-hand-cane",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "oracle-eye40",
+            "nameRU": "Глаз оракула",
+            "lvl": 40,
+            "type": "two-hand-cane",
+            "drop": [{ "name": "kerring", "slot": "0" }, { "name": "forks", "slot": "0" }, { "name": "servia", "slot": "0" }]
+        },
+        {
+            "name": "icy-sword35",
+            "nameRU": "Ледяной меч",
+            "lvl": 35,
+            "type": "one-hand-sword",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "bloody-sword35",
+            "nameRU": "Кровавый меч",
+            "lvl": 35,
+            "type": "two-hand-sword",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "raven-beak35",
+            "nameRU": "Клюв ворона",
+            "lvl": 35,
+            "type": "one-hand-ax",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "wide-ax40",
+            "nameRU": "Широкий топор",
+            "lvl": 40,
+            "type": "one-hand-ax",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "razwide-ax45",
+            "nameRU": "Разящий широкий топор",
+            "lvl": 45,
+            "type": "one-hand-ax",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "silwide-ax45",
+            "nameRU": "Сильный широкий топор",
+            "lvl": 45,
+            "type": "one-hand-ax",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runwide-ax45",
+            "nameRU": "Рунный широкий топор",
+            "lvl": 45,
+            "type": "one-hand-ax",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "ax-crusher35",
+            "nameRU": "Топор крушитель",
+            "lvl": 35,
+            "type": "two-hand-ax",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "royal-rod35",
+            "nameRU": "Королевский жезл",
+            "lvl": 35,
+            "type": "two-hand-blunt",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "silver-dagger35",
+            "nameRU": "Серебряный нож",
+            "lvl": 35,
+            "type": "dagger",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "killing-claw35",
+            "nameRU": "Убивающий коготь",
+            "lvl": 35,
+            "type": "fighting",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "swift-bow35",
+            "nameRU": "Стремительный лук",
+            "lvl": 35,
+            "type": "bow",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "heavy-crossbow35",
+            "nameRU": "Тяжелый арбалет",
+            "lvl": 35,
+            "type": "crossbow",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "fire-rod35",
+            "nameRU": "Жезл огня",
+            "lvl": 35,
+            "type": "one-hand-cane",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "iron-staff35",
+            "nameRU": "Железный посох",
+            "lvl": 35,
+            "type": "two-hand-cane",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "battle-halberd35",
+            "nameRU": "Боевая алебарда",
+            "lvl": 35,
+            "type": "one-hand-blunt",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "war-spear35",
+            "nameRU": "Боевое копье",
+            "lvl": 35,
+            "type": "two-hand-spear",
+            "drop": [{ "name": "saimon", "slot": "1" }, { "name": "ogun8", "slot": "1" }, { "name": "sodan", "slot": "1" }]
+        },
+        {
+            "name": "guardian-bow40",
+            "nameRU": "Лук стража",
+            "lvl": 40,
+            "type": "bow",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "razguardian-bow45",
+            "nameRU": "Разящий лук стража",
+            "lvl": 45,
+            "type": "bow",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "silguardian-bow45",
+            "nameRU": "Сильный лук стража",
+            "lvl": 45,
+            "type": "bow",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runguardian-bow45",
+            "nameRU": "Рунный лук стража",
+            "lvl": 45,
+            "type": "bow",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "meteor-knife40",
+            "nameRU": "Метеоритный нож",
+            "lvl": 40,
+            "type": "dagger",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "silmeteor-knife45",
+            "nameRU": "Сильный метеоритный нож",
+            "lvl": 45,
+            "type": "dagger",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runmeteor-knife45",
+            "nameRU": "Рунный метеоритный нож",
+            "lvl": 45,
+            "type": "dagger",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "darkness-blade40",
+            "nameRU": "Клинок тьмы",
+            "lvl": 40,
+            "type": "dagger",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "sildarkness-blade45",
+            "nameRU": "Сильный клинок тьмы",
+            "lvl": 45,
+            "type": "dagger",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "rundarkness-blade45",
+            "nameRU": "Рунный клинок тьмы",
+            "lvl": 45,
+            "type": "dagger",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "military-crossbow40",
+            "nameRU": "Военный арбалет",
+            "lvl": 40,
+            "type": "crossbow",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "razmilitary-crossbow45",
+            "nameRU": "Разящий военный арбалет",
+            "lvl": 45,
+            "type": "crossbow",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "silmilitary-crossbow45",
+            "nameRU": "Сильный военный арбалет",
+            "lvl": 45,
+            "type": "crossbow",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runmilitary-crossbow45",
+            "nameRU": "Рунный военный арбалет",
+            "lvl": 45,
+            "type": "crossbow",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "spata40",
+            "nameRU": "Спата",
+            "lvl": 40,
+            "type": "one-hand-sword",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "razspata45",
+            "nameRU": "Разящая спата",
+            "lvl": 45,
+            "type": "one-hand-sword",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "silspata45",
+            "nameRU": "Сильная спата",
+            "lvl": 45,
+            "type": "one-hand-sword",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runspata45",
+            "nameRU": "Рунная спата",
+            "lvl": 45,
+            "type": "one-hand-sword",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "claymor40",
+            "nameRU": "Клеймор",
+            "lvl": 40,
+            "type": "two-hand-sword",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "razclaymor45",
+            "nameRU": "Разящий клеймор",
+            "lvl": 45,
+            "type": "two-hand-sword",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "silclaymor45",
+            "nameRU": "Сильный клеймор",
+            "lvl": 45,
+            "type": "two-hand-sword",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runclaymor45",
+            "nameRU": "Рунный клеймор",
+            "lvl": 45,
+            "type": "two-hand-sword",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "viking-ax40",
+            "nameRU": "Топор викинга",
+            "lvl": 40,
+            "type": "two-hand-ax",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "silviking-ax45",
+            "nameRU": "Сильный топор викинга",
+            "lvl": 45,
+            "type": "two-hand-ax",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runviking-ax45",
+            "nameRU": "Рунный топор викинга",
+            "lvl": 45,
+            "type": "two-hand-ax",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "viking-blunt40",
+            "nameRU": "Палица викинга",
+            "lvl": 40,
+            "type": "one-hand-blunt",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "silviking-blunt45",
+            "nameRU": "Сильная палица викинга",
+            "lvl": 45,
+            "type": "one-hand-blunt",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runviking-blunt45",
+            "nameRU": "Рунная палица викинга",
+            "lvl": 45,
+            "type": "one-hand-blunt",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "piercing-lance40",
+            "nameRU": "Пронзающая пика",
+            "lvl": 40,
+            "type": "two-hand-spear",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "razpiercing-lance45",
+            "nameRU": "Разящая пронзающая пика",
+            "lvl": 45,
+            "type": "two-hand-spear",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runpiercing-lance45",
+            "nameRU": "Рунная пронзающая пика",
+            "lvl": 45,
+            "type": "two-hand-spear",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "mithril-claws40",
+            "nameRU": "Мифриловые когти",
+            "lvl": 40,
+            "type": "fighting",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "razmithril-claws45",
+            "nameRU": "Разящие мифриловые когти",
+            "lvl": 45,
+            "type": "fighting",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "silmithril-claws45",
+            "nameRU": "Сильные мифриловые когти",
+            "lvl": 45,
+            "type": "fighting",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runmithril-claws45",
+            "nameRU": "Рунные мифриловые когти",
+            "lvl": 45,
+            "type": "fighting",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "wedge-hammer40",
+            "nameRU": "Клиновидный молот",
+            "lvl": 40,
+            "type": "two-hand-blunt",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "razwedge-hammer45",
+            "nameRU": "Разящий клиновидный молот",
+            "lvl": 45,
+            "type": "two-hand-blunt",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "silwedge-hammer45",
+            "nameRU": "Сильный клиновидный молот",
+            "lvl": 45,
+            "type": "two-hand-blunt",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runwedge-hammer45",
+            "nameRU": "Рунный клиновидный молот",
+            "lvl": 45,
+            "type": "two-hand-blunt",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "heavy-spear40",
+            "nameRU": "Тяжелое копье",
+            "lvl": 40,
+            "type": "one-hand-spear",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runheavy-spear45",
+            "nameRU": "Рунное тяжелое копье",
+            "lvl": 45,
+            "type": "one-hand-spear",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "graceful-wand40",
+            "nameRU": "Изящный жезл",
+            "lvl": 40,
+            "type": "one-hand-cane",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "silgraceful-wand45",
+            "nameRU": "Сильный изящный жезл",
+            "lvl": 45,
+            "type": "one-hand-cane",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "rungraceful-wand45",
+            "nameRU": "Рунный изящный жезл",
+            "lvl": 45,
+            "type": "one-hand-cane",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        },
+        {
+            "name": "skeleton-staff40",
+            "nameRU": "Посох скелета",
+            "lvl": 40,
+            "type": "two-hand-cane",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "silskeleton-staff45",
+            "nameRU": "Сильный посох скелета",
+            "lvl": 45,
+            "type": "two-hand-cane",
+            "drop": [{ "name": "weapon-master", "slot": "1" }]
+        },
+        {
+            "name": "runskeleton-staff45",
+            "nameRU": "Рунный посох скелета",
+            "lvl": 45,
+            "type": "two-hand-cane",
+            "drop": [{ "name": "weapon-master", "slot": "2" }]
+        }
+    ]
+}

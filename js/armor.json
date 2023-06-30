@@ -1,0 +1,1089 @@
+{
+    "armor": [{
+            "name": "linen-shoes1",
+            "nameRU": "Полотняные башмаки",
+            "type": "foot",
+            "lvl": 1,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "quilt-boots1",
+            "nameRU": "Стеганые сапоги",
+            "type": "foot",
+            "lvl": 1,
+            "drop": [{ "name": "tushkanchik3", "slot": "0" }, { "name": "fly7", "slot": "0" }, { "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+
+        {
+            "name": "ordinary-shoes6",
+            "nameRU": "Обычные башмаки",
+            "type": "foot",
+            "lvl": 6,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "regular-boots16",
+            "nameRU": "Обычные сапоги",
+            "type": "foot",
+            "lvl": 16,
+            "drop": [{ "name": "wolf20", "slot": "1" }, { "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "eclipce45",
+            "nameRU": "Затмение",
+            "type": "shield",
+            "lvl": 45,
+            "drop": [{ "name": "demon67", "slot": "1" }]
+        },
+        {
+            "name": "knightrune-shield45",
+            "nameRU": "Рыцарский рунный щит",
+            "type": "shield",
+            "lvl": 45,
+            "drop": [{ "name": "isp68", "slot": "1" }]
+        },
+        {
+            "name": "light-shield3",
+            "nameRU": "Легкий щит",
+            "type": "shield",
+            "lvl": 3,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }, { "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "wooden-shield7",
+            "nameRU": "Деревянный щит",
+            "type": "shield",
+            "lvl": 7,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }, { "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "horse-helmet35",
+            "nameRU": "Лошадинный шлем",
+            "type": "helmet",
+            "lvl": 35,
+            "drop": [{ "name": "gilia48", "slot": "1" }]
+        },
+        {
+            "name": "nightmare-helmet45",
+            "nameRU": "Кошмарный шлем",
+            "type": "helmet",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "wing-helmet45",
+            "nameRU": "Крылатый шлем",
+            "type": "helmet",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "ajur-crown45",
+            "nameRU": "Ажурный венец",
+            "type": "helmet",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "korona45",
+            "nameRU": "Корона",
+            "type": "helmet",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "magic-hat45",
+            "nameRU": "Магическая шляпа",
+            "type": "helmet",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "glasses45",
+            "nameRU": "Очки",
+            "type": "helmet",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "aim45",
+            "nameRU": "Прицел",
+            "type": "helmet",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "plate-armor45",
+            "nameRU": "Латный доспех",
+            "type": "body",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "monastic-cassock45",
+            "nameRU": "Монашеская ряса",
+            "type": "body",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "durable-tunic45",
+            "nameRU": "Прочная туника",
+            "type": "body",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "2" }]
+        },
+        {
+            "name": "plate-breastplate45",
+            "nameRU": "Латный нагрудник",
+            "type": "body",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "moon-clothes45",
+            "nameRU": "Лунные одежды",
+            "type": "body",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "mentor-clothes45",
+            "nameRU": "Одежды наставника",
+            "type": "body",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "gloves-shadow45",
+            "nameRU": "Перчатки тени",
+            "type": "arm",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "gloves-wizard45",
+            "nameRU": "Колдовские перчатки",
+            "type": "arm",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "chrome-gloves45",
+            "nameRU": "Хромовые краги",
+            "type": "arm",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "glorious-gauntlets45",
+            "nameRU": "Славные рукавицы",
+            "type": "arm",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "gold-bracelet45",
+            "nameRU": "Золотой браслет",
+            "type": "arm",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "plate-greaves45",
+            "nameRU": "Латные наголенники",
+            "type": "leg",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "acolyte-pants45",
+            "nameRU": "Штаны послушника",
+            "type": "leg",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "fabric-pants45",
+            "nameRU": "Штаны послушника",
+            "type": "leg",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "moon-pants45",
+            "nameRU": "Лунные штаны",
+            "type": "leg",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "pants-shadow45",
+            "nameRU": "Штаны тени",
+            "type": "leg",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "sacred-pants45",
+            "nameRU": "Священные штаны",
+            "type": "leg",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "eternal-night-pants45",
+            "nameRU": "Штаны вечной ночи",
+            "type": "leg",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "elusive-boots45",
+            "nameRU": "Неуязвимые сапоги",
+            "type": "foot",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "tailor-shoes45",
+            "nameRU": "Башмаки портного",
+            "type": "foot",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "ghost-boots45",
+            "nameRU": "Сапоги призрака",
+            "type": "foot",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "traveler-boots45",
+            "nameRU": "Сапоги путника",
+            "type": "foot",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "suede-boots45",
+            "nameRU": "Замшевые сапоги",
+            "type": "foot",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "vitality-boots45",
+            "nameRU": "Сапоги жизненной силы",
+            "type": "foot",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "plate-shoes45",
+            "nameRU": "Латные башмаки",
+            "type": "foot",
+            "lvl": 45,
+            "drop": [{ "name": "armor-exchanger", "slot": "1" }]
+        },
+        {
+            "name": "dark-crown35",
+            "nameRU": "Темный венец",
+            "type": "helmet",
+            "lvl": 35,
+            "drop": [{ "name": "ghoul28", "slot": "0,1" }, { "name": "gilia48", "slot": "1" }, { "name": "demon53", "slot": "1" }]
+        },
+        {
+            "name": "wizard-hat35",
+            "nameRU": "Шляпа волшебника",
+            "type": "helmet",
+            "lvl": 35,
+            "drop": [{ "name": "gilia48", "slot": "0" }, { "name": "earth-demon53", "slot": "1" }]
+        },
+        {
+            "name": "kardinalka35",
+            "nameRU": "Кардинальская шапка",
+            "type": "helmet",
+            "lvl": 35,
+            "drop": [{ "name": "earth-demon53", "slot": "1" }]
+        },
+        {
+            "name": "half-closed-helmet35",
+            "nameRU": "Полузакрытый шлем",
+            "type": "helmet",
+            "lvl": 35,
+            "drop": [{ "name": "gilia48", "slot": "1" }]
+        },
+        {
+            "name": "leather-helmet3",
+            "nameRU": "Кожаный шлем",
+            "type": "helmet",
+            "lvl": 3,
+            "drop": [{ "name": "bat4", "slot": "0" }, { "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "iron-helmet6",
+            "nameRU": "Железный шлем",
+            "type": "helmet",
+            "lvl": 6,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "viking-helmet16",
+            "nameRU": "Шлем викинга",
+            "type": "helmet",
+            "lvl": 16,
+            "drop": [{ "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "crown5",
+            "nameRU": "Венец",
+            "type": "helmet",
+            "lvl": 5,
+            "drop": [{ "name": "chiko20", "slot": "1" }, { "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "plain-tunic1",
+            "nameRU": "Простая туника",
+            "type": "body",
+            "lvl": 1,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "cotton-tunic1",
+            "nameRU": "Хлопковая туника",
+            "type": "body",
+            "lvl": 1,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "durable-vest7",
+            "nameRU": "Прочный жилет",
+            "type": "body",
+            "lvl": 7,
+            "drop": [{ "name": "wolf10", "slot": "1" }, { "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "leather-armor15",
+            "nameRU": "Кожаный доспех",
+            "type": "body",
+            "lvl": 15,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "leather-vest20",
+            "nameRU": "Кожаный жилет",
+            "type": "body",
+            "lvl": 20,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }, { "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "linen-tunic15",
+            "nameRU": "Льняная туника",
+            "type": "body",
+            "lvl": 15,
+            "drop": [{ "name": "kapibara18", "slot": "2" }, { "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "woolen-clothes26",
+            "nameRU": "Шерстяные одежды",
+            "type": "body",
+            "lvl": 26,
+            "drop": [{ "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "copper-armor35",
+            "nameRU": "Медная броня",
+            "type": "body",
+            "lvl": 35,
+            "drop": [{ "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "iron-scales30",
+            "nameRU": "Железная чешуя",
+            "type": "body",
+            "lvl": 30,
+            "drop": [{ "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "fireheart-armor28",
+            "nameRU": "Доспех огненного сердца",
+            "type": "body",
+            "lvl": 28,
+            "drop": [{ "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "killer-armor35",
+            "nameRU": "Доспех убийцы",
+            "type": "body",
+            "lvl": 35,
+            "drop": [{ "name": "snake33", "slot": "0,1" }]
+        },
+        {
+            "name": "adventurer-armor22",
+            "nameRU": "Доспех искателя приключений",
+            "type": "body",
+            "lvl": 22,
+            "drop": [{ "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "trousers1",
+            "nameRU": "Штаны",
+            "type": "leg",
+            "lvl": 1,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "quilted-pants1",
+            "nameRU": "Стеганые штаны",
+            "type": "leg",
+            "lvl": 1,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "silk-pants5",
+            "nameRU": "Шелковые штаны",
+            "type": "leg",
+            "lvl": 5,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "magical-pants5",
+            "nameRU": "Волшебные штаны",
+            "type": "leg",
+            "lvl": 5,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "leather-pants13",
+            "nameRU": "Кожаные штаны",
+            "type": "leg",
+            "lvl": 13,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "leather-leggings20",
+            "nameRU": "Кожаные поножи",
+            "type": "leg",
+            "lvl": 20,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }, { "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "linen-pants20",
+            "nameRU": "Льняные штаны",
+            "type": "leg",
+            "lvl": 20,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "quilted-mittens1",
+            "nameRU": "Стеганые рукавицы",
+            "type": "arm",
+            "lvl": 1,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "suede-gloves5",
+            "nameRU": "Замшевые перчатки",
+            "type": "arm",
+            "lvl": 5,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "silk-gloves11",
+            "nameRU": "Шелковые перчатки",
+            "type": "arm",
+            "lvl": 11,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "fighting-gloves11",
+            "nameRU": "Бойцовские перчатки",
+            "type": "arm",
+            "lvl": 11,
+            "drop": [{ "name": "ghost41", "slot": "1" }, { "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "fur-gloves18",
+            "nameRU": "Меховые перчатки",
+            "type": "arm",
+            "lvl": 18,
+            "drop": [{ "name": "shin", "slot": "0" }, { "name": "kester", "slot": "0" }, { "name": "david", "slot": "0" }]
+        },
+        {
+            "name": "long-crags26",
+            "nameRU": "Длинные краги",
+            "type": "arm",
+            "lvl": 26,
+            "drop": [{ "name": "ghost43", "slot": "1" }, { "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "iron-leggings35",
+            "nameRU": "Железные поножи",
+            "type": "leg",
+            "lvl": 35,
+            "drop": [{ "name": "cerber60", "slot": "3" }, { "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "iron-boots26",
+            "nameRU": "Железные сапоги",
+            "type": "foot",
+            "lvl": 26,
+            "drop": [{ "name": "ghost39", "slot": "1" }, { "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "defender-shield35",
+            "nameRU": "Щит защитника",
+            "type": "shield",
+            "lvl": 35,
+            "drop": [{ "name": "human35", "slot": "0,1" }, { "name": "human36", "slot": "0,1" }, { "name": "isp55", "slot": "1" }, { "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "metal-gloves30",
+            "nameRU": "Металлические рукавицы",
+            "type": "arm",
+            "lvl": 30,
+            "drop": [{ "name": "ghost43", "slot": "1" }, { "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "woolen-pants26",
+            "nameRU": "Шерстяные штаны",
+            "type": "leg",
+            "lvl": 26,
+            "drop": [{ "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "metal-leggings35",
+            "nameRU": "Металлические поножи",
+            "type": "leg",
+            "lvl": 35,
+            "drop": [{ "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "smart-boots20",
+            "nameRU": "Нарядные сапоги",
+            "type": "foot",
+            "lvl": 20,
+            "drop": [{ "name": "ghost39", "slot": "1" }, { "name": "vargas", "slot": "0" }, { "name": "dip", "slot": "0" }, { "name": "frederika", "slot": "0" }]
+        },
+        {
+            "name": "humanmbody35",
+            "nameRU": "Туника для человека (М)",
+            "type": "body",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "humanmarm35",
+            "nameRU": "Браслет для человека (М)",
+            "type": "arm",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "humanmleg35",
+            "nameRU": "Штаны для человека (М)",
+            "type": "leg",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "humanmfoot35",
+            "nameRU": "Сапоги для человека (М)",
+            "type": "foot",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "humanwbody35",
+            "nameRU": "Туника для человека (Ж)",
+            "type": "body",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "humanwarm35",
+            "nameRU": "Браслет для человека (Ж)",
+            "type": "arm",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "humanwleg35",
+            "nameRU": "Шорты для человека (Ж)",
+            "type": "leg",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "humanwfoot35",
+            "nameRU": "Сапоги для человека (Ж)",
+            "type": "foot",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "elfmbody35",
+            "nameRU": "Жилет для эльфа (М)",
+            "type": "body",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "elfmarm35",
+            "nameRU": "Перчатки для эльфа (М)",
+            "type": "arm",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "elfmleg35",
+            "nameRU": "Штаны для эльфа (М)",
+            "type": "leg",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "elfmfoot35",
+            "nameRU": "Сапоги для эльфа (М)",
+            "type": "foot",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "elfwbody35",
+            "nameRU": "Жилет для эльфа (Ж)",
+            "type": "body",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "elfwarm35",
+            "nameRU": "Перчатки для эльфа (Ж)",
+            "type": "arm",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "elfwleg35",
+            "nameRU": "Эльфийская юбка (Ж)",
+            "type": "leg",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "elfwfoot35",
+            "nameRU": "Сапоги для эльфа (Ж)",
+            "type": "foot",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "cvergbody35",
+            "nameRU": "Туника для цверга",
+            "type": "body",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "cvergarm35",
+            "nameRU": "Рукавицы для цверга",
+            "type": "arm",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "cvergleg35",
+            "nameRU": "Шаровары для цверга",
+            "type": "leg",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "cvergfoot35",
+            "nameRU": "Башмаки для цверга",
+            "type": "foot",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "mirinabody35",
+            "nameRU": "Корсет для мирины",
+            "type": "body",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "mirinaarm35",
+            "nameRU": "Перчатки для мирины",
+            "type": "arm",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "mirinaleg35",
+            "nameRU": "Чулки для мирины",
+            "type": "leg",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "mirinafoot35",
+            "nameRU": "Сапоги для мирины",
+            "type": "foot",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "enkidubody35",
+            "nameRU": "Жилет для энкиду",
+            "type": "body",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "enkiduarm35",
+            "nameRU": "Рукавицы для энкиду",
+            "type": "arm",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "enkiduleg35",
+            "nameRU": "Набедренная повязка для энкиду",
+            "type": "leg",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "enkidufoot35",
+            "nameRU": "Башмаки для энкиду",
+            "type": "foot",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "krolbody35",
+            "nameRU": "Куртка для кроля",
+            "type": "body",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "krolarm35",
+            "nameRU": "Перчатки для кроля",
+            "type": "arm",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "krolleg35",
+            "nameRU": "Штаны для кроля",
+            "type": "leg",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "krolfoot35",
+            "nameRU": "Башмачки для кроля",
+            "type": "foot",
+            "lvl": 35,
+            "drop": [{ "name": "mary", "slot": "1" }]
+        },
+        {
+            "name": "rhumanmhead40",
+            "nameRU": "Рассветная шапка для человека (М)",
+            "type": "helmet",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rhumanmbody40",
+            "nameRU": "Рассветная туника для человека (М)",
+            "type": "body",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rhumanmarm40",
+            "nameRU": "Рассветный браслет для человека (М)",
+            "type": "arm",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rhumanmleg40",
+            "nameRU": "Рассветные штаны для человека (М)",
+            "type": "leg",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rhumanmfoot40",
+            "nameRU": "Рассветные сапоги для человека (М)",
+            "type": "foot",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rhumanwhead40",
+            "nameRU": "Рассветная шапка для человека (Ж)",
+            "type": "helmet",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rhumanwbody40",
+            "nameRU": "Жилет зари для человека (Ж)",
+            "type": "body",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rhumanwarm40",
+            "nameRU": "Рассветный браслет для человека (Ж)",
+            "type": "arm",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rhumanwleg40",
+            "nameRU": "Рассветные шорты для человека (Ж)",
+            "type": "leg",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rhumanwfoot40",
+            "nameRU": "Рассветные сапоги для человека (Ж)",
+            "type": "foot",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "relfmhead40",
+            "nameRU": "Рассветный венец для эльфа (М)",
+            "type": "helmet",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "relfmbody40",
+            "nameRU": "Жилет зари для эльфа (М)",
+            "type": "body",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "relfmarm40",
+            "nameRU": "Рассветные перчатки для эльфа (М)",
+            "type": "arm",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "relfmleg40",
+            "nameRU": "Рассветные штаны для эльфа (М)",
+            "type": "leg",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "relfmfoot40",
+            "nameRU": "Рассветные сапоги для эльфа (М)",
+            "type": "foot",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "relfwhead40",
+            "nameRU": "Рассветный венец для эльфа (Ж)",
+            "type": "helmet",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "relfwbody40",
+            "nameRU": "Жилет зари для эльфа (Ж)",
+            "type": "body",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "relfwarm40",
+            "nameRU": "Рассветные перчатки для эльфа (Ж)",
+            "type": "arm",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "relfwleg40",
+            "nameRU": "Юбка для эльфийки (Ж)",
+            "type": "leg",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "relfwfoot40",
+            "nameRU": "Рассветные сапоги для эльфа (Ж)",
+            "type": "foot",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rcverghead40",
+            "nameRU": "Рассветный шлем для цверга",
+            "type": "helmet",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rcvergbody40",
+            "nameRU": "Туника зари для цверга",
+            "type": "body",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rcvergarm40",
+            "nameRU": "Рассветные рукавицы для цверга",
+            "type": "arm",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rcvergleg40",
+            "nameRU": "Рассветные штаны для цверга",
+            "type": "leg",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rcvergfoot40",
+            "nameRU": "Рассветные башмаки для цверга",
+            "type": "foot",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rmirinahead40",
+            "nameRU": "Рассветная вуаль для мирины",
+            "type": "helmet",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rmirinabody40",
+            "nameRU": "Корсет зари для мирины",
+            "type": "body",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rmirinaarm40",
+            "nameRU": "Рассветные перчатки для мирины",
+            "type": "arm",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rmirinaleg40",
+            "nameRU": "Рассветные чулки для мирины",
+            "type": "leg",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rmirinafoot40",
+            "nameRU": "Рассветные сапоги для мирины",
+            "type": "foot",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "renkiduhead40",
+            "nameRU": "Рассветная маска для энкиду",
+            "type": "helmet",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "renkidubody40",
+            "nameRU": "Жилет зари для энкиду",
+            "type": "body",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "renkiduarm40",
+            "nameRU": "Рассветные рукавицы для энкиду",
+            "type": "arm",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "renkiduleg40",
+            "nameRU": "рассветная повязка для энкиду",
+            "type": "leg",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "renkidufoot40",
+            "nameRU": "Рассветные башмаки для энкиду",
+            "type": "foot",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rkrolhead40",
+            "nameRU": "Рассветная шапочка для кроля",
+            "type": "helmet",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rkrolbody40",
+            "nameRU": "Куртка зари для кроля",
+            "type": "body",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rkrolarm40",
+            "nameRU": "Рассветные перчатки для кроля",
+            "type": "arm",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rkrolleg40",
+            "nameRU": "Рассветные штаны для кроля",
+            "type": "leg",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "rkrolfoot40",
+            "nameRU": "Рассветные башмачки для кроля",
+            "type": "foot",
+            "lvl": 40,
+            "drop": [{ "name": "djo", "slot": "1" }]
+        },
+        {
+            "name": "clothes-life35",
+            "nameRU": "Одежды жизни",
+            "type": "body",
+            "lvl": 35,
+            "drop": [{ "name": "ghost45", "slot": "0,1" }]
+        },
+        {
+            "name": "clothes-resonance35",
+            "nameRU": "Одежды резонанса",
+            "type": "body",
+            "lvl": 35,
+            "drop": [{ "name": "rat33", "slot": "0,1" }, { "name": "bat39", "slot": "0,1" }, { "name": "rat42", "slot": "0,1" }]
+        }
+    ]
+}

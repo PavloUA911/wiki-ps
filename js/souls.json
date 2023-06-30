@@ -1,0 +1,444 @@
+{
+    "souls": [{
+            "name": "poison-soul",
+            "nameRU": "Душа Яда",
+            "part": "Оружие",
+            "color": "green",
+            "img": "green-soul.JPG",
+            "effect": "4% вероятность отравить врага при атаке",
+            "drop": [{ "name": "snake6" }]
+        },
+        {
+            "name": "wish-soul",
+            "nameRU": "Душа Желания",
+            "part": "Оружие, Пояс",
+            "color": "green",
+            "img": "green-soul.JPG",
+            "effect": "Время перезарядки умений -5%",
+            "drop": [{ "name": "hell-demon65" }]
+        },
+        {
+            "name": "spell-soul",
+            "nameRU": "Душа Заклятия",
+            "part": "Оружие, Пояс",
+            "color": "green",
+            "img": "green-soul.JPG",
+            "effect": "Скорость применения умений +5%",
+            "drop": [{ "name": "demon67" }]
+        },
+        {
+            "name": "severe-soul",
+            "nameRU": "Суровая душа",
+            "part": "Шлем",
+            "color": "yellow",
+            "img": "yellow-soul.JPG",
+            "effect": "За каждый уровень усовершенствования: сопротивляемость заморозке +3, ожогам +3, оглушению +1",
+            "drop": [{ "name": "komodo51" }]
+        },
+        {
+            "name": "stronghold-soul",
+            "nameRU": "Душа оплота",
+            "part": "Шлем",
+            "color": "yellow",
+            "img": "yellow-soul.JPG",
+            "effect": "Сопротивляемость чарам +20",
+            "drop": [{ "name": "big-ghost60" }]
+        },
+        {
+            "name": "careful-soul",
+            "nameRU": "Осторожная душа",
+            "part": "Шлем",
+            "color": "yellow",
+            "img": "yellow-soul.JPG",
+            "effect": "Точность +10",
+            "drop": [{ "name": "cerber60" }]
+        },
+        {
+            "name": "nightmare-soul",
+            "nameRU": "Душа Кошмара",
+            "part": "Шлем",
+            "color": "yellow",
+            "img": "yellow-soul.JPG",
+            "effect": "Сопротивляемость сну +25",
+            "drop": [{ "name": "nightmare36" }]
+        },
+        {
+            "name": "sleepless-soul",
+            "nameRU": "Бессонная душа",
+            "part": "Шлем",
+            "color": "yellow",
+            "img": "yellow-soul.JPG",
+            "effect": "Сопротивляемость сну +50",
+            "drop": [{ "name": "wolf60" }]
+        },
+        {
+            "name": "defense-soul",
+            "nameRU": "Душа Обороны",
+            "part": "Оружие",
+            "color": "green",
+            "img": "green-soul.JPG",
+            "effect": "Защита +3 атака -2",
+            "drop": [{ "name": "ghost41" }]
+        },
+        {
+            "name": "strong-soul",
+            "nameRU": "Сильная душа",
+            "part": "Оружие",
+            "color": "green",
+            "img": "green-soul.JPG",
+            "effect": "Атака +6",
+            "drop": [{ "name": "snake48" }]
+        },
+        {
+            "name": "ranger-soul",
+            "nameRU": "Душа Следопыта",
+            "part": "Оружие",
+            "color": "green",
+            "img": "green-soul.JPG",
+            "effect": "Точность +4",
+            "drop": [{ "name": "ghost43" }]
+        },
+        {
+            "name": "acolyte-soul",
+            "nameRU": "Душа Послушника",
+            "part": "Руки",
+            "color": "red",
+            "img": "red-soul.JPG",
+            "effect": "ИНТ +1, Ом +80",
+            "drop": [{ "name": "hell-spider51" }]
+        },
+        {
+            "name": "high-soul",
+            "nameRU": "Высокая душа",
+            "part": "Руки",
+            "color": "red",
+            "img": "red-soul.JPG",
+            "effect": "ИНТ +1, СД+1, Ом +8%",
+            "drop": [{ "name": "berserk63" }]
+        },
+        {
+            "name": "eagle-soul",
+            "nameRU": "Душа Орла",
+            "part": "Руки",
+            "color": "red",
+            "img": "red-soul.JPG",
+            "effect": "Атака +5%",
+            "drop": [{ "name": "demon67" }]
+        },
+        {
+            "name": "beast-soul",
+            "nameRU": "Звериная душа",
+            "part": "Руки",
+            "color": "red",
+            "img": "red-soul.JPG",
+            "effect": "ВЫН +1, ПРВ+1, Оз +8%",
+            "drop": [{ "name": "berserk63" }]
+        },
+        {
+            "name": "warrior-soul",
+            "nameRU": "Душа Воина",
+            "part": "Руки",
+            "color": "red",
+            "img": "red-soul.JPG",
+            "effect": "Скорость атаки +10%",
+            "drop": [{ "name": "ghost-kop55" }]
+        },
+        {
+            "name": "knight-soul",
+            "nameRU": "Душа Рыцаря",
+            "part": "Руки",
+            "color": "red",
+            "img": "red-soul.JPG",
+            "effect": "Оз +8%, Ом +8%",
+            "drop": [{ "name": "skeleton51" }, { "name": "skeleton62" }]
+        },
+        {
+            "name": "gladiator-soul",
+            "nameRU": "Душа Гладиатора",
+            "part": "Руки",
+            "color": "red",
+            "img": "red-soul.JPG",
+            "effect": "ВЫН +1, Оз +100",
+            "drop": [{ "name": "hell-spider51" }]
+        },
+        {
+            "name": "knowledge-soul",
+            "nameRU": "Душа Знания",
+            "part": "Руки",
+            "color": "red",
+            "img": "red-soul.JPG",
+            "effect": "Магическая атака +5%",
+            "drop": [{ "name": "isp68" }]
+        },
+        {
+            "name": "berserk-soul",
+            "nameRU": "Душа Берсерка",
+            "part": "Руки",
+            "color": "red",
+            "img": "red-soul.JPG",
+            "effect": "СИЛ +1, ПРВ +1, ИНТ -3, Вероятность критического урона +1%",
+            "drop": [{ "name": "ghost45" }]
+        },
+        {
+            "name": "witchcraft-soul",
+            "nameRU": "Душа Колдовства",
+            "part": "Оружие",
+            "color": "green",
+            "img": "green-soul.JPG",
+            "effect": "Скорость применения умений +2%",
+            "drop": [{ "name": "earth-demon53" }]
+        },
+        {
+            "name": "magic-soul",
+            "nameRU": "Душа Магии",
+            "part": "Доспех, Ноги",
+            "color": "blue",
+            "img": "blue-soul.JPG",
+            "effect": "Ом +6",
+            "drop": [{ "name": "tushkanchik3" }]
+        },
+        {
+            "name": "potion-soul",
+            "nameRU": "Душа Зелий",
+            "part": "Доспех, Ноги",
+            "color": "blue",
+            "img": "blue-soul.JPG",
+            "effect": "Восстанавливающие действие зелий +8%",
+            "drop": [{ "name": "isp68" }]
+        },
+        {
+            "name": "riddle-soul",
+            "nameRU": "Загадочная душа",
+            "part": "Доспех, Ноги",
+            "color": "blue",
+            "img": "blue-soul.JPG",
+            "effect": "Ом +40 Оз -20",
+            "drop": [{ "name": "ghost51" }, { "name": "ghost53" }]
+        },
+        {
+            "name": "turtle-soul",
+            "nameRU": "Душа Черепахи",
+            "part": "Доспех, Ноги, Обувь",
+            "color": "blue",
+            "img": "blue-soul.JPG",
+            "effect": "Скорость передвижения -3%, защита +4",
+            "drop": [{ "name": "gilia55" }, { "name": "ghost57" }]
+        },
+        {
+            "name": "wolf-soul",
+            "nameRU": "Душа Волка",
+            "part": "Доспех, Ноги",
+            "color": "blue",
+            "img": "blue-soul.JPG",
+            "effect": "Уклонение +1, сопротивляемость заморозке +3",
+            "drop": [{ "name": "wolf10" }, { "name": "wolf20" }]
+        },
+        {
+            "name": "labor-soul",
+            "nameRU": "Душа Труда",
+            "part": "Шлем",
+            "color": "yellow",
+            "img": "yellow-soul.JPG",
+            "effect": "Оз +30, Ом +20",
+            "drop": [{ "name": "ant7" }, { "name": "slug31" }]
+        },
+        {
+            "name": "fountain-soul",
+            "nameRU": "Душа Фонтана",
+            "part": "Доспех, Ноги",
+            "color": "blue",
+            "img": "blue-soul.JPG",
+            "effect": "Ом +13",
+            "drop": [{ "name": "gluttony-ghost8" }, { "name": "living-dead8" }, { "name": "ghoul28" }]
+        },
+        {
+            "name": "happiness-soul",
+            "nameRU": "Душа Счастья",
+            "part": "Оружие",
+            "color": "green",
+            "img": "green-soul.JPG",
+            "effect": "Вероятность критического урона +2%",
+            "drop": [{ "name": "snake17" }]
+        },
+        {
+            "name": "power-soul",
+            "nameRU": "Душа Мощи",
+            "part": "Пояс",
+            "color": "black",
+            "img": "black-soul.JPG",
+            "effect": "СИЛ +1",
+            "drop": [{ "name": "rat23" }]
+        },
+        {
+            "name": "mighty-soul",
+            "nameRU": "Могучая душа",
+            "part": "Пояс",
+            "color": "black",
+            "img": "black-soul.JPG",
+            "effect": "СИЛ +2",
+            "drop": [{ "name": "hell-demon65" }]
+        },
+        {
+            "name": "defend-soul",
+            "nameRU": "Душа Защиты",
+            "part": "Пояс",
+            "color": "black",
+            "img": "black-soul.JPG",
+            "effect": "Понижает получаемый физический и магический урон на 2%",
+            "drop": [{ "name": "isp-green55" }]
+        },
+        {
+            "name": "thorny-soul",
+            "nameRU": "Колючая душа",
+            "part": "Пояс",
+            "color": "black",
+            "img": "black-soul.JPG",
+            "effect": "ЛВК +2",
+            "drop": [{ "name": "ghost51" }]
+        },
+        {
+            "name": "wizard-soul",
+            "nameRU": "Волшебная душа",
+            "part": "Оружие",
+            "color": "green",
+            "img": "green-soul.JPG",
+            "effect": "Магическая атака +2%",
+            "drop": [{ "name": "rat23" }, { "name": "ghost33" }]
+        },
+        {
+            "name": "vitality-soul",
+            "nameRU": "Душа Власти",
+            "part": "Доспех, Ноги",
+            "color": "blue",
+            "img": "blue-soul.JPG",
+            "effect": "Оз +30",
+            "drop": [{ "name": "raptor24" }]
+        },
+        {
+            "name": "needle-soul",
+            "nameRU": "Душа Иглы",
+            "part": "Пояс",
+            "color": "black",
+            "img": "black-soul.JPG",
+            "effect": "ЛВК +1",
+            "drop": [{ "name": "ghoul28" }]
+        },
+        {
+            "name": "sleeping-soul",
+            "nameRU": "Спящая душа",
+            "part": "Оружие",
+            "color": "green",
+            "img": "green-soul.JPG",
+            "effect": "4% вероятность усыпить врага при атаке",
+            "drop": [{ "name": "skeleton32" }]
+        },
+        {
+            "name": "snail-soul",
+            "nameRU": "Душа Улитки",
+            "part": "Доспех, Ноги",
+            "color": "blue",
+            "img": "blue-soul.JPG",
+            "effect": "Защита +1, уклонение -1",
+            "drop": [{ "name": "ant40" }]
+        },
+        {
+            "name": "sage-soul",
+            "nameRU": "Душа Мудреца",
+            "part": "Шлем",
+            "color": "yellow",
+            "img": "yellow-soul.JPG",
+            "effect": "ОМ +50",
+            "drop": [{ "name": "ghost57" }]
+        },
+        {
+            "name": "calm-soul",
+            "nameRU": "Спокойная душа",
+            "part": "Шлем",
+            "color": "yellow",
+            "img": "yellow-soul.JPG",
+            "effect": "Сопротивляемость сбою применения умений +20",
+            "drop": [{ "name": "skeleton50" }]
+        },
+        {
+            "name": "dawn-soul",
+            "nameRU": "Душа Рассвета",
+            "part": "Обувь",
+            "color": "aqua",
+            "img": "aqua-soul.JPG",
+            "effect": "Скорость восстановления ОМ +10%",
+            "drop": [{ "name": "gilia48" }]
+        },
+        {
+            "name": "dawning-soul",
+            "nameRU": "Душа Зари",
+            "part": "Обувь",
+            "color": "aqua",
+            "img": "aqua-soul.JPG",
+            "effect": "Скорость восстановления ОМ +20%",
+            "drop": [{ "name": "ghost51" }]
+        },
+        {
+            "name": "keen-soul",
+            "nameRU": "Зоркая душа",
+            "part": "Обувь",
+            "color": "aqua",
+            "img": "aqua-soul.JPG",
+            "effect": "За каждый уровень усовершенствования: сопротивляемость падению +3, уклонение +1",
+            "drop": [{ "name": "ghost55" }]
+        },
+        {
+            "name": "reason-soul",
+            "nameRU": "Душа Разума",
+            "part": "Доспех, Ноги",
+            "color": "blue",
+            "img": "blue-soul.JPG",
+            "effect": "ОМ +25",
+            "drop": [{ "name": "ghost55" }]
+        },
+        {
+            "name": "guardian-soul",
+            "nameRU": "Душа Стража",
+            "part": "Щит",
+            "color": "purple",
+            "img": "purple-soul.JPG",
+            "effect": "Защита +3, сопротивляемость прерыванию атаки блокированием +15",
+            "drop": [{ "name": "skeleton50" }]
+        },
+        {
+            "name": "fire-soul",
+            "nameRU": "Душа Огня",
+            "part": "Щит",
+            "color": "purple",
+            "img": "purple-soul.JPG",
+            "effect": "Сопротивляемость магии огня +40, магии льда -25",
+            "drop": [{ "name": "spider28" }]
+        },
+        {
+            "name": "ice-soul",
+            "nameRU": "Душа Льда",
+            "part": "Щит",
+            "color": "purple",
+            "img": "purple-soul.JPG",
+            "effect": "Сопротивляемость магии огня +20, магии льда +40, магии молнии -50",
+            "drop": [{ "name": "ghost57" }]
+        },
+        {
+            "name": "lightning-soul",
+            "nameRU": "Душа Молнии",
+            "part": "Щит",
+            "color": "purple",
+            "img": "purple-soul.JPG",
+            "effect": "Сопротивляемость магии огня -25, магии льда -25, магии молнии +75",
+            "drop": [{ "name": "big-ghost60" }]
+        },
+        {
+            "name": "hurry-soul",
+            "nameRU": "Спешащая душа",
+            "part": "Оружие, Пояс",
+            "color": "green",
+            "img": "green-soul.JPG",
+            "effect": "Атака +3, скорость атаки +2%",
+            "drop": [{ "name": "fly7" }]
+        }
+    ]
+}

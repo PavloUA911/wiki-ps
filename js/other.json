@@ -1,0 +1,610 @@
+{
+    "other": [{
+            "name": "small-fangs",
+            "nameRU": "Маленький клык",
+            "img": "small-fangs.PNG",
+            "drop": [{ "name": "tushkanchik3" }, { "name": "snake6" }, { "name": "snake8" }, { "name": "snake12" }, { "name": "tushkanchik16" }, { "name": "snake17" }, { "name": "dikobraz17" }, { "name": "kapibara18" }, { "name": "chiko20" }]
+        },
+        {
+            "name": "painkiller",
+            "nameRU": "Легкое исцеляющее зелье",
+            "img": "painkiller.PNG",
+            "drop": [{ "name": "slug1" }, { "name": "fly2" }, { "name": "tushkanchik3" }, { "name": "bat4" }, { "name": "snake6" }, { "name": "maroder9" }, { "name": "wolf10" }, { "name": "razboinik-shaman15" }, { "name": "razboinik-hunter17" }, { "name": "bat18" }, { "name": "razboinik-vojak19" }, { "name": "wolf20" }, { "name": "bat20" }, { "name": "slug22" }, { "name": "slug31" }, { "name": "snake33" }, { "name": "dingo38" }, { "name": "snake60" }, { "name": "flaren" }, { "name": "rita" }, { "name": "uikki" }, { "name": "ben" }, { "name": "livvi" }, { "name": "givern" }, { "name": "turena" }]
+        },
+        {
+            "name": "replenishment-potion",
+            "nameRU": "Легкое восстонавливающее зелье",
+            "img": "replenishment-potion.PNG",
+            "drop": [{ "name": "tushkanchik3" }, { "name": "bat4" }, { "name": "zombie4" }, { "name": "skeleton7" }, { "name": "zakl9" }, { "name": "living-dead8" }, { "name": "skeleton17" }, { "name": "skeleton18" }, { "name": "bat18" }, { "name": "zrica19" }, { "name": "chiko20" }, { "name": "bat20" }, { "name": "skeleton24" }, { "name": "hungry-ghost38" }, { "name": "flaren" }, { "name": "rita" }, { "name": "uikki" }, { "name": "ben" }, { "name": "livvi" }, { "name": "givern" }, { "name": "turena" }]
+        },
+        {
+            "name": "pyroxene-whelk",
+            "nameRU": "Кусок жадеита",
+            "img": "pyroxene-whelk.PNG",
+            "drop": [{ "name": "slug1" }, { "name": "fly2" }, { "name": "snake6" }, { "name": "snake8" }, { "name": "slug8" }, { "name": "zakl9" }, { "name": "wolf10" }, { "name": "spider14" }, { "name": "fly15" }, { "name": "razboinik-shaman15" }, { "name": "razboinik-hunter17" }, { "name": "kapibara18" }, { "name": "zrica19" }, { "name": "wolf20" }, { "name": "razboinik-vojak19" }, { "name": "slug31" }, { "name": "rat23" }, { "name": "human35" }, { "name": "human36" }, { "name": "human37" }]
+        },
+        {
+            "name": "poisonous-grass",
+            "nameRU": "Ядовитый корень",
+            "img": "poisonous-grass.PNG",
+            "drop": [{ "name": "snake6" }, { "name": "snake8" }, { "name": "snake12" }, { "name": "spider14" }, { "name": "snake17" }, { "name": "spider22" }, { "name": "spider28" }, { "name": "spider31" }, { "name": "snake33" }, { "name": "spider35" }, { "name": "snake48" }, { "name": "snake60" }]
+        },
+        {
+            "name": "pure-soul",
+            "nameRU": "Чистая душа",
+            "img": "pure-soul.PNG",
+            "drop": [{ "name": "ghost31" }, { "name": "ghost33" }, { "name": "nightmare36" }, { "name": "ghost39" }, { "name": "ghost41" }, { "name": "ghost43" }, { "name": "ghost45" }, { "name": "gilia48" }, { "name": "ghost51" }, { "name": "ghost53" }, { "name": "ghost-kop55" }, { "name": "gilia55" }, { "name": "ghost57" }]
+        },
+        {
+            "name": "desperate-soul",
+            "nameRU": "Отчаявшаяся душа",
+            "img": "desperate-soul.PNG",
+            "drop": [{ "name": "ghost31" }, { "name": "ghost45" }]
+        },
+        {
+            "name": "evil-soul",
+            "nameRU": "Злая душа",
+            "img": "evil-soul.PNG",
+            "drop": [{ "name": "nightmare36" }, { "name": "ghost43" }, { "name": "ghost45" }, { "name": "gilia48" }]
+        },
+        {
+            "name": "obsessed-soul",
+            "nameRU": "Одержимая душа",
+            "img": "obsessed-soul.PNG",
+            "drop": [{ "name": "ghost39" }, { "name": "nightmare36" }, { "name": "ghost41" }]
+        },
+        {
+            "name": "alive-soul",
+            "nameRU": "Живая душа",
+            "img": "alive-soul.PNG",
+            "drop": [{ "name": "ghost39" }, { "name": "ghost41" }, { "name": "ghost43" }, { "name": "ghost33" }, { "name": "ghost45" }]
+        },
+        {
+            "name": "bat-feathers",
+            "nameRU": "Крылья летучей мыши",
+            "img": "bat-feathers.PNG",
+            "drop": [{ "name": "bat4" }, { "name": "bat18" }, { "name": "bat20" }, { "name": "nightmare36" }, { "name": "bat39" }, { "name": "gilia48" }]
+        },
+        {
+            "name": "muldian-medal",
+            "nameRU": "Имперская медаль Мальдии",
+            "img": "muldian-medal.PNG",
+            "drop": [{ "name": "ghost31" }, { "name": "ghost33" }, { "name": "nightmare36" }, { "name": "ghost41" }, { "name": "ghost43" }, { "name": "ghost45" }, { "name": "gilia48" }, { "name": "skeleton50" }, { "name": "hell-spider51" }, { "name": "ghost51" }, { "name": "ghost53" }, { "name": "earth-demon53" }, { "name": "ghost55" }, { "name": "isp55" }, { "name": "ghost-kop55" }, { "name": "gilia55" }, { "name": "ghost57" }, { "name": "cerber60" }, { "name": "skeleton62" }, { "name": "berserk63" }, { "name": "hell-demon65" }, { "name": "demon67" }, { "name": "isp68" }]
+        },
+        {
+            "name": "lightlvl1",
+            "nameRU": "Янтарь",
+            "img": "lightlvl1.PNG",
+            "drop": [{ "name": "snake33" }]
+        },
+        {
+            "name": "lightlvl2",
+            "nameRU": "Цитрин",
+            "img": "lightlvl2.PNG",
+            "drop": [{ "name": "ghost43" }, { "name": "snake48" }]
+        },
+        {
+            "name": "poisonlvl1",
+            "nameRU": "Малахит",
+            "img": "poisonlvl1.PNG",
+            "drop": [{ "name": "snake6" }, { "name": "snake8" }, { "name": "razboinik-shaman15" }, { "name": "snake17" }, { "name": "spider28" }, { "name": "spider35" }, { "name": "human37" }]
+        },
+        {
+            "name": "poisonlvl2",
+            "nameRU": "Нефрит",
+            "img": "poisonlvl2.PNG",
+            "drop": [{ "name": "snake12" }]
+        },
+        {
+            "name": "rainbowlvl1",
+            "nameRU": "Опал",
+            "img": "rainbowlvl1.PNG",
+            "drop": [{ "name": "ghost45" }]
+        },
+        {
+            "name": "rainbowlvl3",
+            "nameRU": "Турмалин",
+            "img": "rainbowlvl3.PNG",
+            "drop": [{ "name": "skeleton50" }, { "name": "ghost55" }]
+        },
+        {
+            "name": "lightninglvl1",
+            "nameRU": "Бирюза",
+            "img": "lightninglvl1.PNG",
+            "drop": [{ "name": "razboinik-hunter17" }, { "name": "human36" }]
+        },
+        {
+            "name": "lightninglvl2",
+            "nameRU": "Лазурит",
+            "img": "lightninglvl2.PNG",
+            "drop": []
+        },
+        {
+            "name": "icelvl1",
+            "nameRU": "Жемчуг",
+            "img": "icelvl1.PNG",
+            "drop": [{ "name": "razboinik-vojak19" }, { "name": "human35" }]
+        },
+        {
+            "name": "darklvl1",
+            "nameRU": "Сардоникс",
+            "img": "darklvl1.PNG",
+            "drop": [{ "name": "skeleton24" }]
+        },
+        {
+            "name": "darklvl2",
+            "nameRU": "Розовый кварц",
+            "img": "darklvl2.PNG",
+            "drop": []
+        },
+        {
+            "name": "сloudy-bile",
+            "nameRU": "Мутная желчь",
+            "img": "сloudy-bile.PNG",
+            "drop": [{ "name": "slug1" }, { "name": "fly2" }, { "name": "ant5" }, { "name": "ant7" }, { "name": "slug8" }, { "name": "spider14" }, { "name": "fly15" }, { "name": "ant16" }, { "name": "slug22" }, { "name": "spider22" }, { "name": "spider28" }, { "name": "slug31" }]
+        },
+        {
+            "name": "viscous-bile",
+            "nameRU": "Вязкая желчь",
+            "img": "viscous-bile.PNG",
+            "drop": [{ "name": "fly2" }, { "name": "ant5" }, { "name": "ant7" }, { "name": "fly7" }, { "name": "ant20" }, { "name": "spider22" }]
+        },
+        {
+            "name": "pyroxene",
+            "nameRU": "Жадеит",
+            "img": "pyroxene.PNG",
+            "drop": [{ "name": "fly2" }, { "name": "ant7" }, { "name": "slug8" }, { "name": "fly15" }, { "name": "razboinik-shaman15" }, { "name": "razboinik-hunter17" }, { "name": "zrica19" }, { "name": "razboinik-vojak19" }, { "name": "slug20" }, { "name": "ant20" }, { "name": "fly-snake28" }, { "name": "spider31" }, { "name": "spider35" }, { "name": "human35" }, { "name": "human36" }, { "name": "human37" }, { "name": "dingo38" }, { "name": "enkidu40" }]
+        },
+        {
+            "name": "empty-bottle",
+            "nameRU": "Пустая бутыль",
+            "img": "empty-bottle.PNG",
+            "drop": [{ "name": "slug1" }, { "name": "fly2" }, { "name": "ant7" }, { "name": "slug8" }, { "name": "ant16" }, { "name": "slug20" }, { "name": "chiko20" }, { "name": "ant40" }, { "name": "slug31" }, { "name": "spider35" }, { "name": "ant40" }, { "name": "ant50" }]
+        },
+        {
+            "name": "acid-bile",
+            "nameRU": "Кислотная желчь",
+            "img": "acid-bile.PNG",
+            "drop": [{ "name": "ant7" }, { "name": "ant20" }, { "name": "slug22" }, { "name": "slug31" }, { "name": "ant40" }, { "name": "ant40rb" }, { "name": "ant50" }]
+        },
+        {
+            "name": "firelvl1",
+            "nameRU": "Кровавик",
+            "img": "firelvl1.PNG",
+            "drop": [{ "name": "ant7" }, { "name": "zrica19" }, { "name": "ant20" }]
+        },
+        {
+            "name": "firelvl2",
+            "nameRU": "Гранат",
+            "img": "firelvl2.PNG",
+            "drop": [{ "name": "ghost39" }]
+        },
+        {
+            "name": "multicolored-bile",
+            "nameRU": "Разноцветная желчь",
+            "img": "multicolored-bile.PNG",
+            "drop": [{ "name": "fly-snake28" }, { "name": "spider28" }, { "name": "slug31" }]
+        },
+        {
+            "name": "meat",
+            "nameRU": "Мясо",
+            "img": "meat.PNG",
+            "drop": [{ "name": "slug1" }, { "name": "fly2" }, { "name": "zombie4" }, { "name": "living-dead8" }, { "name": "slug8" }, { "name": "wolf10" }, { "name": "spider14" }, { "name": "wolf20" }, { "name": "slug20" }, { "name": "slug22" }, { "name": "dingo38" }, { "name": "flaren" }, { "name": "rita" }, { "name": "uikki" }, { "name": "ben" }, { "name": "livvi" }, { "name": "givern" }, { "name": "turena" }]
+        },
+        {
+            "name": "wormy-meat",
+            "nameRU": "Червивое мясо",
+            "img": "wormy-meat.PNG",
+            "drop": [{ "name": "zombie4" }, { "name": "living-dead8" }, { "name": "neshit19" }, { "name": "ghoul28" }]
+        },
+        {
+            "name": "rotten-meat",
+            "nameRU": "Гнилое мясо",
+            "img": "rotten-meat.PNG",
+            "drop": [{ "name": "living-dead8" }, { "name": "neshit19" }]
+        },
+        {
+            "name": "fresh-meat",
+            "nameRU": "Свежее мясо",
+            "img": "fresh-meat.PNG",
+            "drop": [{ "name": "fly-snake28" }]
+        },
+        {
+            "name": "helpless-soul",
+            "nameRU": "Беспомощная душа",
+            "img": "helpless-soul.PNG",
+            "drop": [{ "name": "gluttony-ghost8" }, { "name": "wellfeed-ghost24" }]
+        },
+        {
+            "name": "saved-soul",
+            "nameRU": "Спасенная душа",
+            "img": "saved-soul.PNG",
+            "drop": [{ "name": "gluttony-ghost8" }, { "name": "neshit19" }, { "name": "wellfeed-ghost24" }, { "name": "hungry-ghost38" }]
+        },
+        {
+            "name": "fire-root",
+            "nameRU": "Огненный корень",
+            "img": "fire-root.PNG",
+            "drop": [{ "name": "gluttony-ghost8" }, { "name": "wellfeed-ghost24" }, { "name": "hungry-ghost38" }]
+        },
+        {
+            "name": "poison",
+            "nameRU": "Яд",
+            "img": "poison.PNG",
+            "drop": [{ "name": "snake8" }, { "name": "zakl9" }, { "name": "snake17" }, { "name": "spider22" }, { "name": "snake33" }, { "name": "snake48" }]
+        },
+        {
+            "name": "broken-fang",
+            "nameRU": "Сломанный клык",
+            "img": "broken-fang.PNG",
+            "drop": [{ "name": "snake12" }, { "name": "tushkanchik16" }, { "name": "snake17" }, { "name": "bat39" }]
+        },
+        {
+            "name": "sharpened-fang",
+            "nameRU": "Заостренный клык",
+            "img": "sharpened-fang.PNG",
+            "drop": [{ "name": "snake33" }]
+        },
+        {
+            "name": "sharp-fang",
+            "nameRU": "Острый клык",
+            "img": "sharp-fang.PNG",
+            "drop": [{ "name": "snake33" }]
+        },
+        {
+            "name": "curved-fang",
+            "nameRU": "Изогнутый клык",
+            "img": "curved-fang.PNG",
+            "drop": [{ "name": "snake33" }]
+        },
+        {
+            "name": "huge-fang",
+            "nameRU": "Огромный клык",
+            "img": "huge-fang.PNG",
+            "drop": [{ "name": "snake48" }]
+        },
+        {
+            "name": "poison-fang",
+            "nameRU": "Ядовитый клык",
+            "img": "poison-fang.PNG",
+            "drop": [{ "name": "rat33" }, { "name": "snake48" }]
+        },
+        {
+            "name": "bloody-fur",
+            "nameRU": "Окровавленый мех",
+            "img": "bloody-fur.PNG",
+            "drop": [{ "name": "wolf26" }, { "name": "mulakshi32" }, { "name": "rat33" }, { "name": "dingo38" }, { "name": "rat42" }]
+        },
+        {
+            "name": "ticked-fur",
+            "nameRU": "Порченый мех",
+            "img": "ticked-fur.PNG",
+            "drop": [{ "name": "dikobraz17" }, { "name": "kapibara18" }, { "name": "mulakshi32" }, { "name": "dingo38" }]
+        },
+        {
+            "name": "dirty-fur",
+            "nameRU": "Грязный мех",
+            "img": "dirty-fur.PNG",
+            "drop": [{ "name": "wolf10" }, { "name": "rat23" }, { "name": "wolf20" }, { "name": "dikobraz17" }, { "name": "kapibara18" }, { "name": "wolf26" }, { "name": "rat33" }]
+        },
+        {
+            "name": "little-dirty-fur",
+            "nameRU": "Слегка загрязненный мех",
+            "img": "little-dirty-fur.PNG",
+            "drop": [{ "name": "wolf20" }, { "name": "rat33" }, { "name": "dingo38" }]
+        },
+        {
+            "name": "hard-fur",
+            "nameRU": "Жесткий мех",
+            "img": "hard-fur.PNG",
+            "drop": [{ "name": "rat42" }]
+        },
+        {
+            "name": "gold-pyroxene",
+            "nameRU": "Золотой жадеит",
+            "img": "gold-pyroxene.PNG",
+            "drop": [{ "name": "slug22" }, { "name": "rat23" }, { "name": "rat42" }]
+        },
+        {
+            "name": "dark-pyroxene",
+            "nameRU": "Темный жадеит",
+            "img": "dark-pyroxene.PNG",
+            "drop": [{ "name": "nightmare36" }, { "name": "bat39" }, { "name": "gilia48" }]
+        },
+        {
+            "name": "injury",
+            "nameRU": "Слабое исцеляющее зелье",
+            "img": "injury.PNG",
+            "drop": [{ "name": "rat23" }, { "name": "rat33" }, { "name": "human35" }, { "name": "human36" }, { "name": "human37" }, { "name": "demon39" }, { "name": "bat39" }, { "name": "enkidu40" }, { "name": "rat42" }, { "name": "flaren" }, { "name": "rita" }, { "name": "uikki" }, { "name": "ben" }, { "name": "livvi" }, { "name": "givern" }, { "name": "turena" }]
+        },
+        {
+            "name": "red-pyroxene",
+            "nameRU": "Красный жадеит",
+            "img": "red-pyroxene.PNG",
+            "drop": [{ "name": "raptor24" }, { "name": "wellfeed-ghost24" }, { "name": "bone-warrior42" }]
+        },
+        {
+            "name": "small-silver-pyroxene",
+            "nameRU": "Небольшой серебряный жадеит",
+            "img": "small-silver-pyroxene.PNG",
+            "drop": [{ "name": "ghost45" }]
+        },
+        {
+            "name": "small-yellow-pyroxene",
+            "nameRU": "Небольшой желтый жадеит",
+            "img": "small-yellow-pyroxene.PNG",
+            "drop": [{ "name": "demon39" }]
+        },
+        {
+            "name": "small-red-pyroxene",
+            "nameRU": "Небольшой красный жадеит",
+            "img": "small-red-pyroxene.PNG",
+            "drop": [{ "name": "raptor30" }]
+        },
+        {
+            "name": "small-pyroxene",
+            "nameRU": "Небольшой жадеит",
+            "img": "small-pyroxene.PNG",
+            "drop": [{ "name": "ant20" }, { "name": "rat33" }, { "name": "enkidu40" }]
+        },
+        {
+            "name": "crush-red-pyroxene",
+            "nameRU": "Кусок красного жадеита",
+            "img": "crush-red-pyroxene.PNG",
+            "drop": [{ "name": "dikobraz17" }, { "name": "raptor30" }]
+        },
+        {
+            "name": "crush-yellow-pyroxene",
+            "nameRU": "Кусок желтого жадеита",
+            "img": "crush-yellow-pyroxene.PNG",
+            "drop": [{ "name": "demon28" }, { "name": "snake60" }]
+        },
+        {
+            "name": "crush-rainbow-pyroxene",
+            "nameRU": "Кусок радужного жадеита",
+            "img": "crush-rainbow-pyroxene.PNG",
+            "drop": [{ "name": "skeleton50" }, { "name": "ghost55" }]
+        },
+        {
+            "name": "rainbow-pyroxene",
+            "nameRU": "Радужный жадеит",
+            "img": "rainbow-pyroxene.PNG",
+            "drop": [{ "name": "skeleton50" }, { "name": "ghost55" }, { "name": "skeleton62" }, { "name": "berserk63" }, { "name": "isp68" }]
+        },
+        {
+            "name": "healing-root",
+            "nameRU": "Исцеляющий корень",
+            "img": "healing-root.PNG",
+            "drop": [{ "name": "ant5" }, { "name": "raptor24" }, { "name": "mulakshi32" }]
+        },
+        {
+            "name": "little-claw",
+            "nameRU": "Маленький коготь",
+            "img": "little-claw.PNG",
+            "drop": [{ "name": "bat18" }, { "name": "raptor24" }, { "name": "bat20" }, { "name": "bat26" }, { "name": "demon28" }, { "name": "mulakshi32" }]
+        },
+        {
+            "name": "rounded-claw",
+            "nameRU": "Закругленный коготь",
+            "img": "rounded-claw.PNG",
+            "drop": [{ "name": "raptor24" }, { "name": "bat26" }, { "name": "raptor30" }]
+        },
+        {
+            "name": "big-claw",
+            "nameRU": "Большой коготь",
+            "img": "big-claw.PNG",
+            "drop": [{ "name": "bat20" }, { "name": "wolf26" }]
+        },
+        {
+            "name": "jagged-claw",
+            "nameRU": "Зазубренный коготь",
+            "img": "jagged-claw.PNG",
+            "drop": [{ "name": "bat20" }]
+        },
+        {
+            "name": "sharpened-claw",
+            "nameRU": "Заточенный коготь",
+            "img": "sharpened-claw.PNG",
+            "drop": [{ "name": "demon28" }, { "name": "demon39" }, { "name": "bat39" }]
+        },
+        {
+            "name": "sharp-claw",
+            "nameRU": "Острый коготь",
+            "img": "sharp-claw.PNG",
+            "drop": [{ "name": "demon39" }]
+        },
+        {
+            "name": "curved-claw",
+            "nameRU": "Изогнутый коготь",
+            "img": "curved-claw.PNG",
+            "drop": [{ "name": "raptor30" }]
+        },
+        {
+            "name": "decaying-meat",
+            "nameRU": "Разлагающееся мясо",
+            "img": "decaying-meat.PNG",
+            "drop": [{ "name": "ghoul28" }]
+        },
+        {
+            "name": "moonlight-grass",
+            "nameRU": "Лунный корень",
+            "img": "moonlight-grass.PNG",
+            "drop": [{ "name": "skeleton7" }, { "name": "skeleton17" }, { "name": "ghoul28" }, { "name": "bone-warrior42" }]
+        },
+        {
+            "name": "replenishment-potion-60",
+            "nameRU": "Слабое восстонавливающее зелье",
+            "img": "replenishment-potion-60.PNG",
+            "drop": [{ "name": "ghoul28" }, { "name": "bat39" }]
+        },
+
+        {
+            "name": "sweet-bile",
+            "nameRU": "Сладкая желчь",
+            "img": "sweet-bile.PNG",
+            "drop": [{ "name": "ant16" }, { "name": "spider22" }, { "name": "spider28" }, { "name": "spider35" }, { "name": "ant40" }, { "name": "ant40rb" }, { "name": "ant50" }]
+        },
+        {
+            "name": "volatile-bile",
+            "nameRU": "Летучая желчь",
+            "img": "volatile-bile.PNG",
+            "drop": [{ "name": "fly7" }, { "name": "spider14" }, { "name": "spider28" }, { "name": "spider31" }, { "name": "spider35" }, { "name": "ant40" }, { "name": "ant40rb" }, { "name": "ant50" }]
+        },
+        {
+            "name": "hero-charm",
+            "nameRU": "Оберег героя",
+            "img": "hero-charm.PNG",
+            "drop": [{ "name": "skeleton50" }, { "name": "ghost55" }, { "name": "skeleton62" }, { "name": "berserk63" }, { "name": "isp68" }]
+        },
+        {
+            "name": "holy-water",
+            "nameRU": "Святая вода",
+            "img": "holy-water.PNG",
+            "drop": [{ "name": "human37" }, { "name": "flaren" }, { "name": "rita" }, { "name": "uikki" }, { "name": "ben" }, { "name": "livvi" }, { "name": "givern" }, { "name": "turena" }]
+        },
+        {
+            "name": "arrow",
+            "nameRU": "Стрела",
+            "img": "arrow.PNG",
+            "drop": [{ "name": "flaren" }, { "name": "rita" }, { "name": "uikki" }, { "name": "ben" }, { "name": "livvi" }, { "name": "givern" }, { "name": "turena" }]
+        },
+        {
+            "name": "crossbow-bolt",
+            "nameRU": "Арбалетный болт",
+            "img": "crossbow-bolt.PNG",
+            "drop": [{ "name": "flaren" }, { "name": "rita" }, { "name": "uikki" }, { "name": "ben" }, { "name": "livvi" }, { "name": "givern" }, { "name": "turena" }]
+        },
+        {
+            "name": "trap",
+            "nameRU": "Ловушка",
+            "img": "trap.PNG",
+            "drop": [{ "name": "human36" }, { "name": "flaren" }, { "name": "rita" }, { "name": "uikki" }, { "name": "ben" }, { "name": "livvi" }, { "name": "givern" }, { "name": "turena" }]
+        },
+        {
+            "name": "pendant-tool",
+            "nameRU": "Инструмент для изготовления кулонов",
+            "img": "pendant-tool.PNG",
+            "drop": [{ "name": "flaren" }, { "name": "rita" }, { "name": "uikki" }, { "name": "ben" }, { "name": "livvi" }, { "name": "givern" }, { "name": "turena" }]
+        },
+        {
+            "name": "cracked-claw",
+            "nameRU": "Треснувший коготь",
+            "img": "cracked-claw.PNG",
+            "drop": [{ "name": "bat4" }, { "name": "bat18" }, { "name": "raptor30" }, { "name": "bat39" }]
+        },
+        {
+            "name": "offensive-bile",
+            "nameRU": "Зловонная желчь",
+            "img": "offensive-bile.PNG",
+            "drop": [{ "name": "zombie4" }, { "name": "fly15" }]
+        },
+        {
+            "name": "dilapidated-bone",
+            "nameRU": "Ветхая кость",
+            "img": "dilapidated-bone.PNG",
+            "drop": [{ "name": "skeleton7" }, { "name": "skeleton18" }]
+        },
+        {
+            "name": "сrushed-bone",
+            "nameRU": "Сломанная кость",
+            "img": "сrushed-bone.PNG",
+            "drop": [{ "name": "skeleton18" }, { "name": "skeleton24" }]
+        },
+        {
+            "name": "old-bone",
+            "nameRU": "Старая кость",
+            "img": "old-bone.PNG",
+            "drop": [{ "name": "skeleton24" }]
+        },
+        {
+            "name": "rotting-bone",
+            "nameRU": "Гниющая кость",
+            "img": "rotting-bone.PNG",
+            "drop": [{ "name": "skeleton7" }, { "name": "skeleton17" }, { "name": "skeleton18" }, { "name": "skeleton24" }, { "name": "skeleton32" }]
+        },
+        {
+            "name": "strong-bone",
+            "nameRU": "Крепкая кость",
+            "img": "strong-bone.PNG",
+            "drop": [{ "name": "skeleton32" }, { "name": "skeleton34" }, { "name": "skeleton35" }, { "name": "bone-warrior42" }]
+        },
+        {
+            "name": "thick-bone",
+            "nameRU": "Толстая кость",
+            "img": "thick-bone.PNG",
+            "drop": [{ "name": "skeleton32" }, { "name": "skeleton34" }, { "name": "skeleton35" }]
+        },
+        {
+            "name": "dried-bone",
+            "nameRU": "Высохшая кость",
+            "img": "dried-bone.PNG",
+            "drop": [{ "name": "skeleton35" }, { "name": "bone-warrior42" }]
+        },
+        {
+            "name": "big-bone",
+            "nameRU": "Огромная кость",
+            "img": "big-bone.PNG",
+            "drop": [{ "name": "bone-warrior42" }]
+        },
+        {
+            "name": "crushed-skull",
+            "nameRU": "Треснувший череп",
+            "img": "crushed-skull.PNG",
+            "drop": [{ "name": "skeleton7" }, { "name": "skeleton17" }, { "name": "skeleton17" }]
+        },
+        {
+            "name": "cracked-skull",
+            "nameRU": "Росколотый череп",
+            "img": "cracked-skull.PNG",
+            "drop": [{ "name": "kapibara32" }]
+        },
+        {
+            "name": "suffering-soul",
+            "nameRU": "Страждущая душа",
+            "img": "suffering-soul.PNG",
+            "drop": [{ "name": "skeleton34" }, { "name": "skeleton35" }, { "name": "hungry-ghost38" }]
+        },
+        {
+            "name": "wandering-soul",
+            "nameRU": "Блуждающая душа",
+            "img": "wandering-soul.PNG",
+            "drop": [{ "name": "hungry-ghost38" }]
+        },
+        {
+            "name": "mana90",
+            "nameRU": "Простое восстанавливающее зелье",
+            "img": "mana90.PNG",
+            "drop": [{ "name": "skeleton34" }]
+        },
+        {
+            "name": "scratched-skin",
+            "nameRU": "Простое восстанавливающее зелье",
+            "img": "scratched-skin.PNG",
+            "drop": [{ "name": "snake8" }]
+        },
+        {
+            "name": "antidot",
+            "nameRU": "Противоядие",
+            "img": "antidot.PNG",
+            "drop": [{ "name": "snake12" }, { "name": "human35" }, { "name": "raptor30" }]
+        },
+        {
+            "name": "glory-orden",
+            "nameRU": "Орден славы",
+            "img": "glory-orden.PNG",
+            "drop": [{ "name": "cerber60" }]
+        },
+        {
+            "name": "hepatica",
+            "nameRU": "Подснежник",
+            "img": "hepatica.PNG",
+            "drop": [{ "name": "tushkanchik16" }, { "name": "chiko20" }]
+        },
+        {
+            "name": "jour-hammer",
+            "nameRU": "Молоток подмастерья",
+            "img": "jour-hammer.PNG",
+            "drop": [{ "name": "tree46" }]
+        }
+    ]
+}
